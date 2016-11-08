@@ -1,1152 +1,1771 @@
-  1297[INFO][MainThread]屏幕分辨率：800x600
-  1312[INFO][MainThread]窗口模式：windowed
-  1648[DEBU][MainThread]ACTIVEEVENT 0
-  1648[DEBU][MainThread]MOUSEMOTION (0, 11)
-  1648[DEBU][MainThread]SWMOUSEMOTION (0, 0)
-  6402[INFO][MainThread]地图渲染区域大小：850x650
-  6404[INFO][MainThread]地图渲染方块区域：17x13
-  6404[INFO][MainThread]地图渲染方块数目：221
-  6447[DEBU][MainThread]ACTIVEEVENT 0
-  6975[INFO][MainThread]地图渲染区域大小：850x650
-  6976[INFO][MainThread]地图渲染方块区域：17x13
-  6977[INFO][MainThread]地图渲染方块数目：221
-  7436[INFO][MainThread]地图渲染区域大小：850x650
-  7437[INFO][MainThread]地图渲染方块区域：17x13
-  7437[INFO][MainThread]地图渲染方块数目：221
-  7814[INFO][MainThread]地图渲染区域大小：850x650
-  7815[INFO][MainThread]地图渲染方块区域：17x13
-  7815[INFO][MainThread]地图渲染方块数目：221
-  7997[INFO][MainThread]地图渲染区域大小：850x650
-  7998[INFO][MainThread]地图渲染方块区域：17x13
-  7999[INFO][MainThread]地图渲染方块数目：221
-  8221[INFO][MainThread]地图渲染区域大小：850x650
-  8222[INFO][MainThread]地图渲染方块区域：17x13
-  8222[INFO][MainThread]地图渲染方块数目：221
-  8414[INFO][MainThread]地图渲染区域大小：850x650
-  8415[INFO][MainThread]地图渲染方块区域：17x13
-  8416[INFO][MainThread]地图渲染方块数目：221
-  8611[INFO][MainThread]地图渲染区域大小：850x650
-  8612[INFO][MainThread]地图渲染方块区域：17x13
-  8613[INFO][MainThread]地图渲染方块数目：221
-  8804[INFO][MainThread]地图渲染区域大小：850x650
-  8805[INFO][MainThread]地图渲染方块区域：17x13
-  8806[INFO][MainThread]地图渲染方块数目：221
-  8998[INFO][MainThread]地图渲染区域大小：850x650
-  8999[INFO][MainThread]地图渲染方块区域：17x13
-  8999[INFO][MainThread]地图渲染方块数目：221
-  9189[INFO][MainThread]地图渲染区域大小：850x650
-  9190[INFO][MainThread]地图渲染方块区域：17x13
-  9191[INFO][MainThread]地图渲染方块数目：221
+   985[INFO][MainThread]屏幕分辨率：800x600
+   991[INFO][MainThread]窗口模式：windowed
+  1525[DEBU][MainThread]ACTIVEEVENT 0
+  1525[DEBU][MainThread]MOUSEMOTION (580, 217)
+  1525[DEBU][MainThread]SWMOUSEMOTION (180, 0)
+  1525[DEBU][MainThread]ACTIVEEVENT 1
+  1526[DEBU][MainThread]MOUSEMOTION (578, 221)
+  1526[DEBU][MainThread]SWMOUSEMOTION (358, 0)
+  1526[INFO][MainThread]地图渲染区域大小：850x650
+  1527[INFO][MainThread]地图渲染方块区域：17x13
+  1527[INFO][MainThread]地图渲染方块数目：221
+  1564[DEBU][MainThread]MOUSEMOTION (400, 300)
+  1564[DEBU][MainThread]SWMOUSEMOTION (358, 0)
+  1564[INFO][MainThread]地图渲染区域大小：850x650
+  1565[INFO][MainThread]地图渲染方块区域：17x13
+  1565[INFO][MainThread]地图渲染方块数目：221
+  1593[INFO][MainThread]地图渲染区域大小：850x650
+  1594[INFO][MainThread]地图渲染方块区域：17x13
+  1594[INFO][MainThread]地图渲染方块数目：221
+  1622[INFO][MainThread]地图渲染区域大小：850x650
+  1623[INFO][MainThread]地图渲染方块区域：17x13
+  1623[INFO][MainThread]地图渲染方块数目：221
+  1651[INFO][MainThread]地图渲染区域大小：850x650
+  1652[INFO][MainThread]地图渲染方块区域：17x13
+  1653[INFO][MainThread]地图渲染方块数目：221
+  1680[DEBU][MainThread]MOUSEMOTION (400, 303)
+  1680[DEBU][MainThread]SWMOUSEMOTION (358, 3)
+  1680[INFO][MainThread]地图渲染区域大小：850x650
+  1681[INFO][MainThread]地图渲染方块区域：17x13
+  1681[INFO][MainThread]地图渲染方块数目：221
+  1710[INFO][MainThread]地图渲染区域大小：850x650
+  1711[INFO][MainThread]地图渲染方块区域：17x13
+  1711[INFO][MainThread]地图渲染方块数目：221
+  1739[DEBU][MainThread]MOUSEMOTION (401, 310)
+  1739[DEBU][MainThread]SWMOUSEMOTION (359, 13)
+  1739[INFO][MainThread]地图渲染区域大小：850x650
+  1740[INFO][MainThread]地图渲染方块区域：17x13
+  1740[INFO][MainThread]地图渲染方块数目：221
+  1768[DEBU][MainThread]MOUSEMOTION (401, 301)
+  1768[DEBU][MainThread]SWMOUSEMOTION (360, 14)
+  1768[INFO][MainThread]地图渲染区域大小：850x650
+  1769[INFO][MainThread]地图渲染方块区域：17x13
+  1769[INFO][MainThread]地图渲染方块数目：221
+  1796[DEBU][MainThread]MOUSEMOTION (401, 302)
+  1796[DEBU][MainThread]SWMOUSEMOTION (361, 16)
+  1796[INFO][MainThread]地图渲染区域大小：850x650
+  1797[INFO][MainThread]地图渲染方块区域：17x13
+  1798[INFO][MainThread]地图渲染方块数目：221
+  1826[DEBU][MainThread]MOUSEMOTION (400, 300)
+  1826[DEBU][MainThread]SWMOUSEMOTION (361, 16)
+  1826[INFO][MainThread]地图渲染区域大小：850x650
+  1827[INFO][MainThread]地图渲染方块区域：17x13
+  1827[INFO][MainThread]地图渲染方块数目：221
+  1855[INFO][MainThread]地图渲染区域大小：850x650
+  1856[INFO][MainThread]地图渲染方块区域：17x13
+  1856[INFO][MainThread]地图渲染方块数目：221
+  1883[INFO][MainThread]地图渲染区域大小：850x650
+  1884[INFO][MainThread]地图渲染方块区域：17x13
+  1884[INFO][MainThread]地图渲染方块数目：221
+  1911[INFO][MainThread]地图渲染区域大小：850x650
+  1912[INFO][MainThread]地图渲染方块区域：17x13
+  1912[INFO][MainThread]地图渲染方块数目：221
+  1940[INFO][MainThread]地图渲染区域大小：850x650
+  1940[INFO][MainThread]地图渲染方块区域：17x13
+  1941[INFO][MainThread]地图渲染方块数目：221
+  1967[INFO][MainThread]地图渲染区域大小：850x650
+  1968[INFO][MainThread]地图渲染方块区域：17x13
+  1968[INFO][MainThread]地图渲染方块数目：221
+  1995[DEBU][MainThread]MOUSEMOTION (404, 307)
+  1995[DEBU][MainThread]SWMOUSEMOTION (365, 23)
+  1996[INFO][MainThread]地图渲染区域大小：850x650
+  1996[INFO][MainThread]地图渲染方块区域：17x13
+  1996[INFO][MainThread]地图渲染方块数目：221
+  2025[DEBU][MainThread]MOUSEMOTION (388, 308)
+  2025[DEBU][MainThread]SWMOUSEMOTION (353, 31)
+  2025[INFO][MainThread]地图渲染区域大小：850x650
+  2026[INFO][MainThread]地图渲染方块区域：17x13
+  2027[INFO][MainThread]地图渲染方块数目：221
+  2055[DEBU][MainThread]MOUSEMOTION (377, 318)
+  2055[DEBU][MainThread]SWMOUSEMOTION (330, 49)
+  2055[INFO][MainThread]地图渲染区域大小：850x650
+  2056[INFO][MainThread]地图渲染方块区域：17x13
+  2056[INFO][MainThread]地图渲染方块数目：221
+  2084[DEBU][MainThread]MOUSEMOTION (382, 335)
+  2084[DEBU][MainThread]SWMOUSEMOTION (312, 84)
+  2084[INFO][MainThread]地图渲染区域大小：850x650
+  2085[INFO][MainThread]地图渲染方块区域：17x13
+  2085[INFO][MainThread]地图渲染方块数目：221
+  2112[DEBU][MainThread]MOUSEMOTION (395, 346)
+  2112[DEBU][MainThread]SWMOUSEMOTION (307, 130)
+  2112[INFO][MainThread]地图渲染区域大小：850x650
+  2114[INFO][MainThread]地图渲染方块区域：17x13
+  2114[INFO][MainThread]地图渲染方块数目：221
+  2142[DEBU][MainThread]MOUSEMOTION (400, 340)
+  2142[DEBU][MainThread]SWMOUSEMOTION (307, 170)
+  2142[INFO][MainThread]地图渲染区域大小：850x650
+  2143[INFO][MainThread]地图渲染方块区域：17x13
+  2143[INFO][MainThread]地图渲染方块数目：221
+  2170[DEBU][MainThread]MOUSEMOTION (404, 358)
+  2170[DEBU][MainThread]SWMOUSEMOTION (311, 228)
+  2170[INFO][MainThread]地图渲染区域大小：850x650
+  2171[INFO][MainThread]地图渲染方块区域：17x13
+  2171[INFO][MainThread]地图渲染方块数目：221
+  2198[DEBU][MainThread]MOUSEMOTION (411, 336)
+  2198[DEBU][MainThread]SWMOUSEMOTION (322, 264)
+  2198[INFO][MainThread]地图渲染区域大小：850x650
+  2200[INFO][MainThread]地图渲染方块区域：17x13
+  2200[INFO][MainThread]地图渲染方块数目：221
+  2227[DEBU][MainThread]MOUSEMOTION (416, 334)
+  2227[DEBU][MainThread]SWMOUSEMOTION (338, 298)
+  2227[INFO][MainThread]地图渲染区域大小：850x650
+  2228[INFO][MainThread]地图渲染方块区域：17x13
+  2228[INFO][MainThread]地图渲染方块数目：221
+  2255[DEBU][MainThread]MOUSEMOTION (416, 323)
+  2255[DEBU][MainThread]SWMOUSEMOTION (354, 321)
+  2255[INFO][MainThread]地图渲染区域大小：850x650
+  2256[INFO][MainThread]地图渲染方块区域：17x13
+  2256[INFO][MainThread]地图渲染方块数目：221
+  2284[DEBU][MainThread]MOUSEMOTION (423, 331)
+  2284[DEBU][MainThread]SWMOUSEMOTION (377, 352)
+  2284[INFO][MainThread]地图渲染区域大小：850x650
+  2285[INFO][MainThread]地图渲染方块区域：17x13
+  2285[INFO][MainThread]地图渲染方块数目：221
+  2311[DEBU][MainThread]MOUSEMOTION (420, 322)
+  2311[DEBU][MainThread]SWMOUSEMOTION (397, 374)
+  2311[INFO][MainThread]地图渲染区域大小：850x650
+  2312[INFO][MainThread]地图渲染方块区域：17x13
+  2312[INFO][MainThread]地图渲染方块数目：221
+  2339[DEBU][MainThread]MOUSEMOTION (438, 334)
+  2339[DEBU][MainThread]SWMOUSEMOTION (435, 408)
+  2340[INFO][MainThread]地图渲染区域大小：850x650
+  2340[INFO][MainThread]地图渲染方块区域：17x13
+  2340[INFO][MainThread]地图渲染方块数目：221
+  2368[DEBU][MainThread]MOUSEMOTION (453, 336)
+  2368[DEBU][MainThread]SWMOUSEMOTION (488, 444)
+  2368[INFO][MainThread]地图渲染区域大小：850x650
+  2369[INFO][MainThread]地图渲染方块区域：17x13
+  2369[INFO][MainThread]地图渲染方块数目：221
+  2396[DEBU][MainThread]MOUSEMOTION (431, 328)
+  2396[DEBU][MainThread]SWMOUSEMOTION (519, 472)
+  2396[INFO][MainThread]地图渲染区域大小：850x650
+  2397[INFO][MainThread]地图渲染方块区域：17x13
+  2397[INFO][MainThread]地图渲染方块数目：221
+  2425[DEBU][MainThread]MOUSEMOTION (468, 381)
+  2425[DEBU][MainThread]SWMOUSEMOTION (587, 553)
+  2425[INFO][MainThread]地图渲染区域大小：850x650
+  2426[INFO][MainThread]地图渲染方块区域：17x13
+  2426[INFO][MainThread]地图渲染方块数目：221
+  2454[DEBU][MainThread]MOUSEMOTION (426, 339)
+  2454[DEBU][MainThread]SWMOUSEMOTION (613, 592)
+  2454[INFO][MainThread]地图渲染区域大小：850x650
+  2455[INFO][MainThread]地图渲染方块区域：17x13
+  2455[INFO][MainThread]地图渲染方块数目：221
+  2481[DEBU][MainThread]MOUSEMOTION (437, 349)
+  2481[DEBU][MainThread]SWMOUSEMOTION (650, 600)
+  2481[INFO][MainThread]地图渲染区域大小：850x650
+  2483[INFO][MainThread]地图渲染方块区域：17x13
+  2483[INFO][MainThread]地图渲染方块数目：221
+  2511[DEBU][MainThread]MOUSEMOTION (428, 334)
+  2511[DEBU][MainThread]SWMOUSEMOTION (678, 600)
+  2511[INFO][MainThread]地图渲染区域大小：850x650
+  2512[INFO][MainThread]地图渲染方块区域：17x13
+  2512[INFO][MainThread]地图渲染方块数目：221
+  2542[DEBU][MainThread]MOUSEMOTION (419, 318)
+  2542[DEBU][MainThread]SWMOUSEMOTION (697, 600)
+  2542[INFO][MainThread]地图渲染区域大小：850x650
+  2543[INFO][MainThread]地图渲染方块区域：17x13
+  2543[INFO][MainThread]地图渲染方块数目：221
+  2571[DEBU][MainThread]MOUSEMOTION (405, 306)
+  2571[DEBU][MainThread]SWMOUSEMOTION (702, 600)
+  2571[INFO][MainThread]地图渲染区域大小：850x650
+  2572[INFO][MainThread]地图渲染方块区域：17x13
+  2572[INFO][MainThread]地图渲染方块数目：221
+  2599[DEBU][MainThread]MOUSEMOTION (407, 310)
+  2600[DEBU][MainThread]SWMOUSEMOTION (709, 600)
+  2600[INFO][MainThread]地图渲染区域大小：850x650
+  2601[INFO][MainThread]地图渲染方块区域：17x13
+  2601[INFO][MainThread]地图渲染方块数目：221
+  2628[DEBU][MainThread]MOUSEMOTION (408, 314)
+  2628[DEBU][MainThread]SWMOUSEMOTION (717, 600)
+  2628[INFO][MainThread]地图渲染区域大小：850x650
+  2629[INFO][MainThread]地图渲染方块区域：17x13
+  2630[INFO][MainThread]地图渲染方块数目：221
+  2658[DEBU][MainThread]MOUSEMOTION (417, 327)
+  2658[DEBU][MainThread]SWMOUSEMOTION (734, 600)
+  2658[INFO][MainThread]地图渲染区域大小：850x650
+  2659[INFO][MainThread]地图渲染方块区域：17x13
+  2659[INFO][MainThread]地图渲染方块数目：221
+  2687[DEBU][MainThread]MOUSEMOTION (415, 318)
+  2687[DEBU][MainThread]SWMOUSEMOTION (749, 600)
+  2687[INFO][MainThread]地图渲染区域大小：850x650
+  2688[INFO][MainThread]地图渲染方块区域：17x13
+  2688[INFO][MainThread]地图渲染方块数目：221
+  2717[DEBU][MainThread]MOUSEMOTION (408, 307)
+  2717[DEBU][MainThread]SWMOUSEMOTION (757, 600)
+  2717[INFO][MainThread]地图渲染区域大小：850x650
+  2718[INFO][MainThread]地图渲染方块区域：17x13
+  2718[INFO][MainThread]地图渲染方块数目：221
+  2745[DEBU][MainThread]MOUSEMOTION (402, 302)
+  2745[DEBU][MainThread]SWMOUSEMOTION (759, 600)
+  2745[INFO][MainThread]地图渲染区域大小：850x650
+  2746[INFO][MainThread]地图渲染方块区域：17x13
+  2746[INFO][MainThread]地图渲染方块数目：221
+  2776[DEBU][MainThread]MOUSEMOTION (400, 300)
+  2776[DEBU][MainThread]SWMOUSEMOTION (759, 600)
+  2776[INFO][MainThread]地图渲染区域大小：850x650
+  2777[INFO][MainThread]地图渲染方块区域：17x13
+  2777[INFO][MainThread]地图渲染方块数目：221
+  2807[INFO][MainThread]地图渲染区域大小：850x650
+  2808[INFO][MainThread]地图渲染方块区域：17x13
+  2808[INFO][MainThread]地图渲染方块数目：221
+  2836[DEBU][MainThread]MOUSEMOTION (366, 282)
+  2836[DEBU][MainThread]SWMOUSEMOTION (725, 582)
+  2836[INFO][MainThread]地图渲染区域大小：850x650
+  2837[INFO][MainThread]地图渲染方块区域：17x13
+  2837[INFO][MainThread]地图渲染方块数目：221
+  2865[DEBU][MainThread]MOUSEMOTION (276, 226)
+  2865[DEBU][MainThread]SWMOUSEMOTION (601, 508)
+  2865[INFO][MainThread]地图渲染区域大小：850x650
+  2866[INFO][MainThread]地图渲染方块区域：17x13
+  2866[INFO][MainThread]地图渲染方块数目：221
+  2893[DEBU][MainThread]MOUSEMOTION (247, 229)
+  2893[DEBU][MainThread]SWMOUSEMOTION (448, 437)
+  2893[INFO][MainThread]地图渲染区域大小：850x650
+  2894[INFO][MainThread]地图渲染方块区域：17x13
+  2894[INFO][MainThread]地图渲染方块数目：221
+  2922[DEBU][MainThread]MOUSEMOTION (156, 208)
+  2922[DEBU][MainThread]SWMOUSEMOTION (204, 345)
+  2922[INFO][MainThread]地图渲染区域大小：850x650
+  2923[INFO][MainThread]地图渲染方块区域：17x13
+  2923[INFO][MainThread]地图渲染方块数目：221
+  2951[DEBU][MainThread]MOUSEMOTION (235, 255)
+  2951[DEBU][MainThread]SWMOUSEMOTION (39, 300)
+  2951[INFO][MainThread]地图渲染区域大小：850x650
+  2952[INFO][MainThread]地图渲染方块区域：17x13
+  2952[INFO][MainThread]地图渲染方块数目：221
+  2979[DEBU][MainThread]MOUSEMOTION (344, 289)
+  2979[DEBU][MainThread]SWMOUSEMOTION (0, 289)
+  2979[INFO][MainThread]地图渲染区域大小：850x650
+  2980[INFO][MainThread]地图渲染方块区域：17x13
+  2980[INFO][MainThread]地图渲染方块数目：221
+  3009[DEBU][MainThread]MOUSEMOTION (392, 298)
+  3009[DEBU][MainThread]SWMOUSEMOTION (0, 287)
+  3009[INFO][MainThread]地图渲染区域大小：850x650
+  3010[INFO][MainThread]地图渲染方块区域：17x13
+  3010[INFO][MainThread]地图渲染方块数目：221
+  3039[DEBU][MainThread]MOUSEMOTION (384, 299)
+  3039[DEBU][MainThread]SWMOUSEMOTION (0, 286)
+  3040[INFO][MainThread]地图渲染区域大小：850x650
+  3040[INFO][MainThread]地图渲染方块区域：17x13
+  3041[INFO][MainThread]地图渲染方块数目：221
+  3069[DEBU][MainThread]MOUSEMOTION (346, 299)
+  3069[DEBU][MainThread]SWMOUSEMOTION (0, 285)
+  3069[INFO][MainThread]地图渲染区域大小：850x650
+  3069[INFO][MainThread]地图渲染方块区域：17x13
+  3070[INFO][MainThread]地图渲染方块数目：221
+  3098[DEBU][MainThread]MOUSEMOTION (317, 299)
+  3098[DEBU][MainThread]SWMOUSEMOTION (0, 284)
+  3099[INFO][MainThread]地图渲染区域大小：850x650
+  3099[INFO][MainThread]地图渲染方块区域：17x13
+  3099[INFO][MainThread]地图渲染方块数目：221
+  3126[DEBU][MainThread]MOUSEMOTION (315, 291)
+  3126[DEBU][MainThread]SWMOUSEMOTION (0, 275)
+  3126[INFO][MainThread]地图渲染区域大小：850x650
+  3127[INFO][MainThread]地图渲染方块区域：17x13
+  3127[INFO][MainThread]地图渲染方块数目：221
+  3156[DEBU][MainThread]MOUSEMOTION (302, 280)
+  3156[DEBU][MainThread]SWMOUSEMOTION (0, 255)
+  3156[INFO][MainThread]地图渲染区域大小：850x650
+  3157[INFO][MainThread]地图渲染方块区域：17x13
+  3157[INFO][MainThread]地图渲染方块数目：221
+  3187[DEBU][MainThread]MOUSEMOTION (376, 293)
+  3187[DEBU][MainThread]SWMOUSEMOTION (0, 248)
+  3187[INFO][MainThread]地图渲染区域大小：850x650
+  3188[INFO][MainThread]地图渲染方块区域：17x13
+  3188[INFO][MainThread]地图渲染方块数目：221
+  3215[DEBU][MainThread]MOUSEMOTION (400, 299)
+  3216[DEBU][MainThread]SWMOUSEMOTION (0, 247)
+  3216[INFO][MainThread]地图渲染区域大小：850x650
+  3216[INFO][MainThread]地图渲染方块区域：17x13
+  3216[INFO][MainThread]地图渲染方块数目：221
+  3244[DEBU][MainThread]MOUSEMOTION (406, 296)
+  3244[DEBU][MainThread]SWMOUSEMOTION (6, 243)
+  3244[INFO][MainThread]地图渲染区域大小：850x650
+  3246[INFO][MainThread]地图渲染方块区域：17x13
+  3246[INFO][MainThread]地图渲染方块数目：221
+  3274[DEBU][MainThread]MOUSEMOTION (442, 290)
+  3274[DEBU][MainThread]SWMOUSEMOTION (48, 233)
+  3274[INFO][MainThread]地图渲染区域大小：850x650
+  3275[INFO][MainThread]地图渲染方块区域：17x13
+  3275[INFO][MainThread]地图渲染方块数目：221
+  3303[DEBU][MainThread]MOUSEMOTION (505, 290)
+  3304[DEBU][MainThread]SWMOUSEMOTION (153, 223)
+  3304[INFO][MainThread]地图渲染区域大小：850x650
+  3305[INFO][MainThread]地图渲染方块区域：17x13
+  3305[INFO][MainThread]地图渲染方块数目：221
+  3332[DEBU][MainThread]MOUSEMOTION (566, 300)
+  3332[DEBU][MainThread]SWMOUSEMOTION (319, 223)
+  3332[INFO][MainThread]地图渲染区域大小：850x650
+  3333[INFO][MainThread]地图渲染方块区域：17x13
+  3333[INFO][MainThread]地图渲染方块数目：221
+  3360[DEBU][MainThread]MOUSEMOTION (649, 283)
+  3360[DEBU][MainThread]SWMOUSEMOTION (568, 206)
+  3360[INFO][MainThread]地图渲染区域大小：850x650
+  3361[INFO][MainThread]地图渲染方块区域：17x13
+  3361[INFO][MainThread]地图渲染方块数目：221
+  3390[DEBU][MainThread]MOUSEMOTION (552, 276)
+  3390[DEBU][MainThread]SWMOUSEMOTION (720, 182)
+  3390[INFO][MainThread]地图渲染区域大小：850x650
+  3392[INFO][MainThread]地图渲染方块区域：17x13
+  3392[INFO][MainThread]地图渲染方块数目：221
+  3419[DEBU][MainThread]MOUSEMOTION (506, 254)
+  3419[DEBU][MainThread]SWMOUSEMOTION (800, 136)
+  3419[INFO][MainThread]地图渲染区域大小：850x650
+  3420[INFO][MainThread]地图渲染方块区域：17x13
+  3420[INFO][MainThread]地图渲染方块数目：221
+  3447[DEBU][MainThread]MOUSEMOTION (443, 280)
+  3448[DEBU][MainThread]SWMOUSEMOTION (800, 116)
+  3448[INFO][MainThread]地图渲染区域大小：850x650
+  3449[INFO][MainThread]地图渲染方块区域：17x13
+  3449[INFO][MainThread]地图渲染方块数目：221
+  3476[DEBU][MainThread]MOUSEMOTION (481, 270)
+  3476[DEBU][MainThread]SWMOUSEMOTION (800, 86)
+  3476[INFO][MainThread]地图渲染区域大小：850x650
+  3477[INFO][MainThread]地图渲染方块区域：17x13
+  3477[INFO][MainThread]地图渲染方块数目：221
+  3506[DEBU][MainThread]MOUSEMOTION (539, 235)
+  3506[DEBU][MainThread]SWMOUSEMOTION (800, 21)
+  3506[INFO][MainThread]地图渲染区域大小：850x650
+  3507[INFO][MainThread]地图渲染方块区域：17x13
+  3507[INFO][MainThread]地图渲染方块数目：221
+  3536[DEBU][MainThread]MOUSEMOTION (458, 266)
+  3536[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3536[INFO][MainThread]地图渲染区域大小：850x650
+  3537[INFO][MainThread]地图渲染方块区域：17x13
+  3537[INFO][MainThread]地图渲染方块数目：221
+  3564[DEBU][MainThread]MOUSEMOTION (479, 271)
+  3564[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3565[INFO][MainThread]地图渲染区域大小：850x650
+  3566[INFO][MainThread]地图渲染方块区域：17x13
+  3566[INFO][MainThread]地图渲染方块数目：221
+  3592[DEBU][MainThread]MOUSEMOTION (534, 268)
+  3592[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3592[INFO][MainThread]地图渲染区域大小：850x650
+  3593[INFO][MainThread]地图渲染方块区域：17x13
+  3593[INFO][MainThread]地图渲染方块数目：221
+  3623[DEBU][MainThread]MOUSEMOTION (496, 269)
+  3623[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3623[INFO][MainThread]地图渲染区域大小：850x650
+  3624[INFO][MainThread]地图渲染方块区域：17x13
+  3624[INFO][MainThread]地图渲染方块数目：221
+  3651[DEBU][MainThread]MOUSEMOTION (465, 278)
+  3651[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3651[INFO][MainThread]地图渲染区域大小：850x650
+  3652[INFO][MainThread]地图渲染方块区域：17x13
+  3652[INFO][MainThread]地图渲染方块数目：221
+  3680[DEBU][MainThread]MOUSEMOTION (459, 288)
+  3680[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3680[INFO][MainThread]地图渲染区域大小：850x650
+  3682[INFO][MainThread]地图渲染方块区域：17x13
+  3682[INFO][MainThread]地图渲染方块数目：221
+  3709[DEBU][MainThread]MOUSEMOTION (437, 293)
+  3709[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3709[INFO][MainThread]地图渲染区域大小：850x650
+  3710[INFO][MainThread]地图渲染方块区域：17x13
+  3710[INFO][MainThread]地图渲染方块数目：221
+  3739[DEBU][MainThread]MOUSEMOTION (423, 281)
+  3739[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3739[INFO][MainThread]地图渲染区域大小：850x650
+  3740[INFO][MainThread]地图渲染方块区域：17x13
+  3740[INFO][MainThread]地图渲染方块数目：221
+  3769[DEBU][MainThread]MOUSEMOTION (416, 290)
+  3769[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3769[INFO][MainThread]地图渲染区域大小：850x650
+  3769[INFO][MainThread]地图渲染方块区域：17x13
+  3770[INFO][MainThread]地图渲染方块数目：221
+  3797[DEBU][MainThread]MOUSEMOTION (404, 295)
+  3798[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3798[INFO][MainThread]地图渲染区域大小：850x650
+  3799[INFO][MainThread]地图渲染方块区域：17x13
+  3799[INFO][MainThread]地图渲染方块数目：221
+  3826[DEBU][MainThread]MOUSEMOTION (400, 294)
+  3826[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  3826[INFO][MainThread]地图渲染区域大小：850x650
+  3827[INFO][MainThread]地图渲染方块区域：17x13
+  3827[INFO][MainThread]地图渲染方块数目：221
+  3856[DEBU][MainThread]MOUSEMOTION (371, 296)
+  3856[DEBU][MainThread]SWMOUSEMOTION (771, 0)
+  3856[INFO][MainThread]地图渲染区域大小：850x650
+  3857[INFO][MainThread]地图渲染方块区域：17x13
+  3857[INFO][MainThread]地图渲染方块数目：221
+  3885[DEBU][MainThread]MOUSEMOTION (369, 313)
+  3885[DEBU][MainThread]SWMOUSEMOTION (740, 13)
+  3885[INFO][MainThread]地图渲染区域大小：850x650
+  3886[INFO][MainThread]地图渲染方块区域：17x13
+  3886[INFO][MainThread]地图渲染方块数目：221
+  3914[DEBU][MainThread]MOUSEMOTION (350, 344)
+  3914[DEBU][MainThread]SWMOUSEMOTION (690, 57)
+  3914[INFO][MainThread]地图渲染区域大小：850x650
+  3915[INFO][MainThread]地图渲染方块区域：17x13
+  3915[INFO][MainThread]地图渲染方块数目：221
+  3943[DEBU][MainThread]MOUSEMOTION (331, 361)
+  3943[DEBU][MainThread]SWMOUSEMOTION (621, 118)
+  3943[INFO][MainThread]地图渲染区域大小：850x650
+  3944[INFO][MainThread]地图渲染方块区域：17x13
+  3944[INFO][MainThread]地图渲染方块数目：221
+  3973[DEBU][MainThread]MOUSEMOTION (274, 410)
+  3973[DEBU][MainThread]SWMOUSEMOTION (495, 228)
+  3973[INFO][MainThread]地图渲染区域大小：850x650
+  3974[INFO][MainThread]地图渲染方块区域：17x13
+  3974[INFO][MainThread]地图渲染方块数目：221
+  4003[DEBU][MainThread]MOUSEMOTION (283, 419)
+  4003[DEBU][MainThread]SWMOUSEMOTION (378, 347)
+  4003[INFO][MainThread]地图渲染区域大小：850x650
+  4004[INFO][MainThread]地图渲染方块区域：17x13
+  4004[INFO][MainThread]地图渲染方块数目：221
+  4031[DEBU][MainThread]MOUSEMOTION (330, 362)
+  4031[DEBU][MainThread]SWMOUSEMOTION (308, 409)
+  4031[INFO][MainThread]地图渲染区域大小：850x650
+  4032[INFO][MainThread]地图渲染方块区域：17x13
+  4032[INFO][MainThread]地图渲染方块数目：221
+  4059[DEBU][MainThread]MOUSEMOTION (367, 345)
+  4059[DEBU][MainThread]SWMOUSEMOTION (275, 454)
+  4059[INFO][MainThread]地图渲染区域大小：850x650
+  4060[INFO][MainThread]地图渲染方块区域：17x13
+  4060[INFO][MainThread]地图渲染方块数目：221
+  4089[DEBU][MainThread]MOUSEMOTION (382, 351)
+  4089[DEBU][MainThread]SWMOUSEMOTION (257, 505)
+  4090[INFO][MainThread]地图渲染区域大小：850x650
+  4090[INFO][MainThread]地图渲染方块区域：17x13
+  4090[INFO][MainThread]地图渲染方块数目：221
+  4118[DEBU][MainThread]MOUSEMOTION (385, 343)
+  4118[DEBU][MainThread]SWMOUSEMOTION (242, 548)
+  4118[INFO][MainThread]地图渲染区域大小：850x650
+  4119[INFO][MainThread]地图渲染方块区域：17x13
+  4119[INFO][MainThread]地图渲染方块数目：221
+  4147[DEBU][MainThread]MOUSEMOTION (385, 361)
+  4147[DEBU][MainThread]SWMOUSEMOTION (227, 600)
+  4147[INFO][MainThread]地图渲染区域大小：850x650
+  4148[INFO][MainThread]地图渲染方块区域：17x13
+  4148[INFO][MainThread]地图渲染方块数目：221
+  4176[DEBU][MainThread]MOUSEMOTION (377, 384)
+  4176[DEBU][MainThread]SWMOUSEMOTION (204, 600)
+  4176[INFO][MainThread]地图渲染区域大小：850x650
+  4177[INFO][MainThread]地图渲染方块区域：17x13
+  4177[INFO][MainThread]地图渲染方块数目：221
+  4206[DEBU][MainThread]MOUSEMOTION (382, 348)
+  4206[DEBU][MainThread]SWMOUSEMOTION (186, 600)
+  4206[INFO][MainThread]地图渲染区域大小：850x650
+  4207[INFO][MainThread]地图渲染方块区域：17x13
+  4207[INFO][MainThread]地图渲染方块数目：221
+  4235[DEBU][MainThread]MOUSEMOTION (389, 318)
+  4235[DEBU][MainThread]SWMOUSEMOTION (175, 600)
+  4235[INFO][MainThread]地图渲染区域大小：850x650
+  4236[INFO][MainThread]地图渲染方块区域：17x13
+  4236[INFO][MainThread]地图渲染方块数目：221
+  4264[DEBU][MainThread]MOUSEMOTION (390, 305)
+  4264[DEBU][MainThread]SWMOUSEMOTION (165, 600)
+  4264[INFO][MainThread]地图渲染区域大小：850x650
+  4265[INFO][MainThread]地图渲染方块区域：17x13
+  4265[INFO][MainThread]地图渲染方块数目：221
+  4291[DEBU][MainThread]MOUSEMOTION (384, 303)
+  4292[DEBU][MainThread]SWMOUSEMOTION (149, 600)
+  4292[INFO][MainThread]地图渲染区域大小：850x650
+  4293[INFO][MainThread]地图渲染方块区域：17x13
+  4293[INFO][MainThread]地图渲染方块数目：221
+  4323[DEBU][MainThread]MOUSEMOTION (372, 305)
+  4323[DEBU][MainThread]SWMOUSEMOTION (121, 600)
+  4323[INFO][MainThread]地图渲染区域大小：850x650
+  4324[INFO][MainThread]地图渲染方块区域：17x13
+  4324[INFO][MainThread]地图渲染方块数目：221
+  4353[DEBU][MainThread]MOUSEMOTION (363, 307)
+  4353[DEBU][MainThread]SWMOUSEMOTION (84, 600)
+  4353[INFO][MainThread]地图渲染区域大小：850x650
+  4354[INFO][MainThread]地图渲染方块区域：17x13
+  4354[INFO][MainThread]地图渲染方块数目：221
+  4381[DEBU][MainThread]MOUSEMOTION (356, 305)
+  4381[DEBU][MainThread]SWMOUSEMOTION (40, 600)
+  4381[INFO][MainThread]地图渲染区域大小：850x650
+  4382[INFO][MainThread]地图渲染方块区域：17x13
+  4382[INFO][MainThread]地图渲染方块数目：221
+  4410[DEBU][MainThread]MOUSEMOTION (267, 290)
+  4410[DEBU][MainThread]SWMOUSEMOTION (0, 590)
+  4410[INFO][MainThread]地图渲染区域大小：850x650
+  4411[INFO][MainThread]地图渲染方块区域：17x13
+  4411[INFO][MainThread]地图渲染方块数目：221
+  4441[DEBU][MainThread]MOUSEMOTION (254, 271)
+  4441[DEBU][MainThread]SWMOUSEMOTION (0, 561)
+  4441[INFO][MainThread]地图渲染区域大小：850x650
+  4442[INFO][MainThread]地图渲染方块区域：17x13
+  4442[INFO][MainThread]地图渲染方块数目：221
+  4471[DEBU][MainThread]MOUSEMOTION (304, 272)
+  4471[DEBU][MainThread]SWMOUSEMOTION (0, 533)
+  4471[INFO][MainThread]地图渲染区域大小：850x650
+  4472[INFO][MainThread]地图渲染方块区域：17x13
+  4472[INFO][MainThread]地图渲染方块数目：221
+  4500[DEBU][MainThread]MOUSEMOTION (306, 263)
+  4500[DEBU][MainThread]SWMOUSEMOTION (0, 496)
+  4500[INFO][MainThread]地图渲染区域大小：850x650
+  4501[INFO][MainThread]地图渲染方块区域：17x13
+  4501[INFO][MainThread]地图渲染方块数目：221
+  4528[DEBU][MainThread]MOUSEMOTION (301, 251)
+  4529[DEBU][MainThread]SWMOUSEMOTION (0, 447)
+  4529[INFO][MainThread]地图渲染区域大小：850x650
+  4530[INFO][MainThread]地图渲染方块区域：17x13
+  4530[INFO][MainThread]地图渲染方块数目：221
+  4557[DEBU][MainThread]MOUSEMOTION (336, 263)
+  4557[DEBU][MainThread]SWMOUSEMOTION (0, 410)
+  4557[INFO][MainThread]地图渲染区域大小：850x650
+  4558[INFO][MainThread]地图渲染方块区域：17x13
+  4558[INFO][MainThread]地图渲染方块数目：221
+  4587[DEBU][MainThread]MOUSEMOTION (358, 264)
+  4587[DEBU][MainThread]SWMOUSEMOTION (0, 374)
+  4587[INFO][MainThread]地图渲染区域大小：850x650
+  4588[INFO][MainThread]地图渲染方块区域：17x13
+  4588[INFO][MainThread]地图渲染方块数目：221
+  4616[DEBU][MainThread]MOUSEMOTION (379, 255)
+  4616[DEBU][MainThread]SWMOUSEMOTION (0, 329)
+  4616[INFO][MainThread]地图渲染区域大小：850x650
+  4617[INFO][MainThread]地图渲染方块区域：17x13
+  4617[INFO][MainThread]地图渲染方块数目：221
+  4644[DEBU][MainThread]MOUSEMOTION (379, 236)
+  4644[DEBU][MainThread]SWMOUSEMOTION (0, 265)
+  4644[INFO][MainThread]地图渲染区域大小：850x650
+  4645[INFO][MainThread]地图渲染方块区域：17x13
+  4646[INFO][MainThread]地图渲染方块数目：221
+  4673[DEBU][MainThread]MOUSEMOTION (375, 200)
+  4673[DEBU][MainThread]SWMOUSEMOTION (0, 165)
+  4673[INFO][MainThread]地图渲染区域大小：850x650
+  4674[INFO][MainThread]地图渲染方块区域：17x13
+  4674[INFO][MainThread]地图渲染方块数目：221
+  4703[DEBU][MainThread]MOUSEMOTION (393, 234)
+  4703[DEBU][MainThread]SWMOUSEMOTION (0, 99)
+  4703[INFO][MainThread]地图渲染区域大小：850x650
+  4704[INFO][MainThread]地图渲染方块区域：17x13
+  4704[INFO][MainThread]地图渲染方块数目：221
+  4733[DEBU][MainThread]MOUSEMOTION (404, 237)
+  4733[DEBU][MainThread]SWMOUSEMOTION (4, 36)
+  4733[INFO][MainThread]地图渲染区域大小：850x650
+  4734[INFO][MainThread]地图渲染方块区域：17x13
+  4734[INFO][MainThread]地图渲染方块数目：221
+  4761[DEBU][MainThread]MOUSEMOTION (414, 222)
+  4762[DEBU][MainThread]SWMOUSEMOTION (18, 0)
+  4762[INFO][MainThread]地图渲染区域大小：850x650
+  4764[INFO][MainThread]地图渲染方块区域：17x13
+  4764[INFO][MainThread]地图渲染方块数目：221
+  4791[DEBU][MainThread]MOUSEMOTION (417, 245)
+  4791[DEBU][MainThread]SWMOUSEMOTION (35, 0)
+  4791[INFO][MainThread]地图渲染区域大小：850x650
+  4792[INFO][MainThread]地图渲染方块区域：17x13
+  4792[INFO][MainThread]地图渲染方块数目：221
+  4822[DEBU][MainThread]MOUSEMOTION (437, 218)
+  4822[DEBU][MainThread]SWMOUSEMOTION (72, 0)
+  4822[INFO][MainThread]地图渲染区域大小：850x650
+  4823[INFO][MainThread]地图渲染方块区域：17x13
+  4823[INFO][MainThread]地图渲染方块数目：221
+  4852[DEBU][MainThread]MOUSEMOTION (452, 223)
+  4852[DEBU][MainThread]SWMOUSEMOTION (124, 0)
+  4852[INFO][MainThread]地图渲染区域大小：850x650
+  4853[INFO][MainThread]地图渲染方块区域：17x13
+  4853[INFO][MainThread]地图渲染方块数目：221
+  4880[DEBU][MainThread]MOUSEMOTION (464, 254)
+  4880[DEBU][MainThread]SWMOUSEMOTION (188, 0)
+  4880[INFO][MainThread]地图渲染区域大小：850x650
+  4881[INFO][MainThread]地图渲染方块区域：17x13
+  4881[INFO][MainThread]地图渲染方块数目：221
+  4908[DEBU][MainThread]MOUSEMOTION (487, 278)
+  4909[DEBU][MainThread]SWMOUSEMOTION (275, 0)
+  4909[INFO][MainThread]地图渲染区域大小：850x650
+  4909[INFO][MainThread]地图渲染方块区域：17x13
+  4910[INFO][MainThread]地图渲染方块数目：221
+  4938[DEBU][MainThread]MOUSEMOTION (613, 276)
+  4938[DEBU][MainThread]SWMOUSEMOTION (488, 0)
+  4938[INFO][MainThread]地图渲染区域大小：850x650
+  4939[INFO][MainThread]地图渲染方块区域：17x13
+  4939[INFO][MainThread]地图渲染方块数目：221
+  4969[DEBU][MainThread]MOUSEMOTION (641, 299)
+  4969[DEBU][MainThread]SWMOUSEMOTION (729, 0)
+  4969[INFO][MainThread]地图渲染区域大小：850x650
+  4970[INFO][MainThread]地图渲染方块区域：17x13
+  4970[INFO][MainThread]地图渲染方块数目：221
+  4997[DEBU][MainThread]MOUSEMOTION (573, 299)
+  4997[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  4998[INFO][MainThread]地图渲染区域大小：850x650
+  4998[INFO][MainThread]地图渲染方块区域：17x13
+  4999[INFO][MainThread]地图渲染方块数目：221
+  5027[DEBU][MainThread]MOUSEMOTION (587, 299)
+  5027[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  5028[INFO][MainThread]地图渲染区域大小：850x650
+  5030[INFO][MainThread]地图渲染方块区域：17x13
+  5030[INFO][MainThread]地图渲染方块数目：221
+  5057[DEBU][MainThread]MOUSEMOTION (553, 297)
+  5057[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  5057[INFO][MainThread]地图渲染区域大小：850x650
+  5058[INFO][MainThread]地图渲染方块区域：17x13
+  5058[INFO][MainThread]地图渲染方块数目：221
+  5087[DEBU][MainThread]MOUSEMOTION (491, 300)
+  5087[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  5087[INFO][MainThread]地图渲染区域大小：850x650
+  5088[INFO][MainThread]地图渲染方块区域：17x13
+  5088[INFO][MainThread]地图渲染方块数目：221
+  5118[DEBU][MainThread]MOUSEMOTION (596, 305)
+  5118[DEBU][MainThread]SWMOUSEMOTION (800, 5)
+  5118[INFO][MainThread]地图渲染区域大小：850x650
+  5119[INFO][MainThread]地图渲染方块区域：17x13
+  5119[INFO][MainThread]地图渲染方块数目：221
+  5146[DEBU][MainThread]MOUSEMOTION (518, 326)
+  5146[DEBU][MainThread]SWMOUSEMOTION (800, 31)
+  5146[INFO][MainThread]地图渲染区域大小：850x650
+  5147[INFO][MainThread]地图渲染方块区域：17x13
+  5147[INFO][MainThread]地图渲染方块数目：221
+  5175[DEBU][MainThread]MOUSEMOTION (489, 341)
+  5175[DEBU][MainThread]SWMOUSEMOTION (800, 72)
+  5175[INFO][MainThread]地图渲染区域大小：850x650
+  5176[INFO][MainThread]地图渲染方块区域：17x13
+  5176[INFO][MainThread]地图渲染方块数目：221
+  5205[DEBU][MainThread]MOUSEMOTION (466, 348)
+  5205[DEBU][MainThread]SWMOUSEMOTION (800, 120)
+  5205[INFO][MainThread]地图渲染区域大小：850x650
+  5207[INFO][MainThread]地图渲染方块区域：17x13
+  5207[INFO][MainThread]地图渲染方块数目：221
+  5235[DEBU][MainThread]MOUSEMOTION (448, 372)
+  5235[DEBU][MainThread]SWMOUSEMOTION (800, 192)
+  5235[INFO][MainThread]地图渲染区域大小：850x650
+  5236[INFO][MainThread]地图渲染方块区域：17x13
+  5236[INFO][MainThread]地图渲染方块数目：221
+  5264[DEBU][MainThread]MOUSEMOTION (461, 411)
+  5264[DEBU][MainThread]SWMOUSEMOTION (800, 303)
+  5264[INFO][MainThread]地图渲染区域大小：850x650
+  5265[INFO][MainThread]地图渲染方块区域：17x13
+  5265[INFO][MainThread]地图渲染方块数目：221
+  5293[DEBU][MainThread]MOUSEMOTION (444, 394)
+  5293[DEBU][MainThread]SWMOUSEMOTION (800, 397)
+  5293[INFO][MainThread]地图渲染区域大小：850x650
+  5295[INFO][MainThread]地图渲染方块区域：17x13
+  5295[INFO][MainThread]地图渲染方块数目：221
+  5325[DEBU][MainThread]MOUSEMOTION (451, 431)
+  5325[DEBU][MainThread]SWMOUSEMOTION (800, 528)
+  5325[INFO][MainThread]地图渲染区域大小：850x650
+  5326[INFO][MainThread]地图渲染方块区域：17x13
+  5326[INFO][MainThread]地图渲染方块数目：221
+  5354[DEBU][MainThread]MOUSEMOTION (445, 442)
+  5354[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  5354[INFO][MainThread]地图渲染区域大小：850x650
+  5355[INFO][MainThread]地图渲染方块区域：17x13
+  5355[INFO][MainThread]地图渲染方块数目：221
+  5383[DEBU][MainThread]MOUSEMOTION (427, 387)
+  5383[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  5383[INFO][MainThread]地图渲染区域大小：850x650
+  5384[INFO][MainThread]地图渲染方块区域：17x13
+  5384[INFO][MainThread]地图渲染方块数目：221
+  5411[DEBU][MainThread]MOUSEMOTION (419, 385)
+  5412[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  5412[INFO][MainThread]地图渲染区域大小：850x650
+  5412[INFO][MainThread]地图渲染方块区域：17x13
+  5412[INFO][MainThread]地图渲染方块数目：221
+  5439[DEBU][MainThread]MOUSEMOTION (406, 340)
+  5439[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  5439[INFO][MainThread]地图渲染区域大小：850x650
+  5440[INFO][MainThread]地图渲染方块区域：17x13
+  5440[INFO][MainThread]地图渲染方块数目：221
+  5470[DEBU][MainThread]MOUSEMOTION (402, 339)
+  5470[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  5470[INFO][MainThread]地图渲染区域大小：850x650
+  5471[INFO][MainThread]地图渲染方块区域：17x13
+  5471[INFO][MainThread]地图渲染方块数目：221
+  5499[DEBU][MainThread]MOUSEMOTION (392, 325)
+  5499[DEBU][MainThread]SWMOUSEMOTION (792, 600)
+  5499[INFO][MainThread]地图渲染区域大小：850x650
+  5500[INFO][MainThread]地图渲染方块区域：17x13
+  5500[INFO][MainThread]地图渲染方块数目：221
+  5527[DEBU][MainThread]MOUSEMOTION (386, 311)
+  5527[DEBU][MainThread]SWMOUSEMOTION (778, 600)
+  5527[INFO][MainThread]地图渲染区域大小：850x650
+  5528[INFO][MainThread]地图渲染方块区域：17x13
+  5528[INFO][MainThread]地图渲染方块数目：221
+  5557[DEBU][MainThread]MOUSEMOTION (360, 321)
+  5557[DEBU][MainThread]SWMOUSEMOTION (738, 600)
+  5557[INFO][MainThread]地图渲染区域大小：850x650
+  5558[INFO][MainThread]地图渲染方块区域：17x13
+  5558[INFO][MainThread]地图渲染方块数目：221
+  5586[DEBU][MainThread]MOUSEMOTION (289, 318)
+  5586[DEBU][MainThread]SWMOUSEMOTION (627, 600)
+  5586[INFO][MainThread]地图渲染区域大小：850x650
+  5587[INFO][MainThread]地图渲染方块区域：17x13
+  5587[INFO][MainThread]地图渲染方块数目：221
+  5614[DEBU][MainThread]MOUSEMOTION (234, 300)
+  5614[DEBU][MainThread]SWMOUSEMOTION (461, 600)
+  5614[INFO][MainThread]地图渲染区域大小：850x650
+  5615[INFO][MainThread]地图渲染方块区域：17x13
+  5615[INFO][MainThread]地图渲染方块数目：221
+  5643[DEBU][MainThread]MOUSEMOTION (175, 302)
+  5643[DEBU][MainThread]SWMOUSEMOTION (236, 600)
+  5643[INFO][MainThread]地图渲染区域大小：850x650
+  5644[INFO][MainThread]地图渲染方块区域：17x13
+  5644[INFO][MainThread]地图渲染方块数目：221
+  5671[DEBU][MainThread]MOUSEMOTION (263, 295)
+  5671[DEBU][MainThread]SWMOUSEMOTION (99, 595)
+  5671[INFO][MainThread]地图渲染区域大小：850x650
+  5672[INFO][MainThread]地图渲染方块区域：17x13
+  5672[INFO][MainThread]地图渲染方块数目：221
+  5699[DEBU][MainThread]MOUSEMOTION (233, 272)
+  5699[DEBU][MainThread]SWMOUSEMOTION (0, 567)
+  5699[INFO][MainThread]地图渲染区域大小：850x650
+  5700[INFO][MainThread]地图渲染方块区域：17x13
+  5700[INFO][MainThread]地图渲染方块数目：221
+  5728[DEBU][MainThread]MOUSEMOTION (197, 244)
+  5728[DEBU][MainThread]SWMOUSEMOTION (0, 511)
+  5728[INFO][MainThread]地图渲染区域大小：850x650
+  5729[INFO][MainThread]地图渲染方块区域：17x13
+  5729[INFO][MainThread]地图渲染方块数目：221
+  5756[DEBU][MainThread]MOUSEMOTION (263, 265)
+  5756[DEBU][MainThread]SWMOUSEMOTION (0, 476)
+  5757[INFO][MainThread]地图渲染区域大小：850x650
+  5758[INFO][MainThread]地图渲染方块区域：17x13
+  5758[INFO][MainThread]地图渲染方块数目：221
+  5787[DEBU][MainThread]MOUSEMOTION (254, 260)
+  5787[DEBU][MainThread]SWMOUSEMOTION (0, 436)
+  5787[INFO][MainThread]地图渲染区域大小：850x650
+  5788[INFO][MainThread]地图渲染方块区域：17x13
+  5788[INFO][MainThread]地图渲染方块数目：221
+  5817[DEBU][MainThread]MOUSEMOTION (315, 271)
+  5817[DEBU][MainThread]SWMOUSEMOTION (0, 407)
+  5817[INFO][MainThread]地图渲染区域大小：850x650
+  5818[INFO][MainThread]地图渲染方块区域：17x13
+  5818[INFO][MainThread]地图渲染方块数目：221
+  5844[DEBU][MainThread]MOUSEMOTION (356, 280)
+  5844[DEBU][MainThread]SWMOUSEMOTION (0, 387)
+  5844[INFO][MainThread]地图渲染区域大小：850x650
+  5845[INFO][MainThread]地图渲染方块区域：17x13
+  5845[INFO][MainThread]地图渲染方块数目：221
+  5873[DEBU][MainThread]MOUSEMOTION (335, 261)
+  5873[DEBU][MainThread]SWMOUSEMOTION (0, 348)
+  5873[INFO][MainThread]地图渲染区域大小：850x650
+  5874[INFO][MainThread]地图渲染方块区域：17x13
+  5874[INFO][MainThread]地图渲染方块数目：221
+  5903[DEBU][MainThread]MOUSEMOTION (333, 248)
+  5903[DEBU][MainThread]SWMOUSEMOTION (0, 296)
+  5903[INFO][MainThread]地图渲染区域大小：850x650
+  5904[INFO][MainThread]地图渲染方块区域：17x13
+  5904[INFO][MainThread]地图渲染方块数目：221
+  5931[DEBU][MainThread]MOUSEMOTION (329, 224)
+  5931[DEBU][MainThread]SWMOUSEMOTION (0, 220)
+  5931[INFO][MainThread]地图渲染区域大小：850x650
+  5932[INFO][MainThread]地图渲染方块区域：17x13
+  5932[INFO][MainThread]地图渲染方块数目：221
+  5960[DEBU][MainThread]MOUSEMOTION (376, 244)
+  5960[DEBU][MainThread]SWMOUSEMOTION (0, 164)
+  5960[INFO][MainThread]地图渲染区域大小：850x650
+  5961[INFO][MainThread]地图渲染方块区域：17x13
+  5961[INFO][MainThread]地图渲染方块数目：221
+  5988[DEBU][MainThread]MOUSEMOTION (384, 215)
+  5988[DEBU][MainThread]SWMOUSEMOTION (0, 79)
+  5988[INFO][MainThread]地图渲染区域大小：850x650
+  5989[INFO][MainThread]地图渲染方块区域：17x13
+  5989[INFO][MainThread]地图渲染方块数目：221
+  6017[DEBU][MainThread]MOUSEMOTION (388, 184)
+  6017[DEBU][MainThread]SWMOUSEMOTION (0, 0)
+  6017[INFO][MainThread]地图渲染区域大小：850x650
+  6018[INFO][MainThread]地图渲染方块区域：17x13
+  6018[INFO][MainThread]地图渲染方块数目：221
+  6045[DEBU][MainThread]MOUSEMOTION (395, 210)
+  6045[DEBU][MainThread]SWMOUSEMOTION (0, 0)
+  6045[INFO][MainThread]地图渲染区域大小：850x650
+  6046[INFO][MainThread]地图渲染方块区域：17x13
+  6046[INFO][MainThread]地图渲染方块数目：221
+  6073[DEBU][MainThread]MOUSEMOTION (403, 192)
+  6073[DEBU][MainThread]SWMOUSEMOTION (3, 0)
+  6073[INFO][MainThread]地图渲染区域大小：850x650
+  6074[INFO][MainThread]地图渲染方块区域：17x13
+  6074[INFO][MainThread]地图渲染方块数目：221
+  6102[DEBU][MainThread]MOUSEMOTION (408, 248)
+  6102[DEBU][MainThread]SWMOUSEMOTION (11, 0)
+  6102[INFO][MainThread]地图渲染区域大小：850x650
+  6103[INFO][MainThread]地图渲染方块区域：17x13
+  6103[INFO][MainThread]地图渲染方块数目：221
+  6132[DEBU][MainThread]MOUSEMOTION (412, 250)
+  6132[DEBU][MainThread]SWMOUSEMOTION (23, 0)
+  6132[INFO][MainThread]地图渲染区域大小：850x650
+  6133[INFO][MainThread]地图渲染方块区域：17x13
+  6133[INFO][MainThread]地图渲染方块数目：221
+  6160[DEBU][MainThread]MOUSEMOTION (412, 270)
+  6160[DEBU][MainThread]SWMOUSEMOTION (35, 0)
+  6160[INFO][MainThread]地图渲染区域大小：850x650
+  6161[INFO][MainThread]地图渲染方块区域：17x13
+  6161[INFO][MainThread]地图渲染方块数目：221
+  6188[DEBU][MainThread]MOUSEMOTION (420, 275)
+  6189[DEBU][MainThread]SWMOUSEMOTION (55, 0)
+  6189[INFO][MainThread]地图渲染区域大小：850x650
+  6190[INFO][MainThread]地图渲染方块区域：17x13
+  6190[INFO][MainThread]地图渲染方块数目：221
+  6218[DEBU][MainThread]MOUSEMOTION (449, 263)
+  6218[DEBU][MainThread]SWMOUSEMOTION (104, 0)
+  6218[INFO][MainThread]地图渲染区域大小：850x650
+  6219[INFO][MainThread]地图渲染方块区域：17x13
+  6219[INFO][MainThread]地图渲染方块数目：221
+  6247[DEBU][MainThread]MOUSEMOTION (465, 277)
+  6247[DEBU][MainThread]SWMOUSEMOTION (169, 0)
+  6247[INFO][MainThread]地图渲染区域大小：850x650
+  6248[INFO][MainThread]地图渲染方块区域：17x13
+  6248[INFO][MainThread]地图渲染方块数目：221
+  6275[DEBU][MainThread]MOUSEMOTION (512, 275)
+  6276[DEBU][MainThread]SWMOUSEMOTION (281, 0)
+  6276[INFO][MainThread]地图渲染区域大小：850x650
+  6277[INFO][MainThread]地图渲染方块区域：17x13
+  6277[INFO][MainThread]地图渲染方块数目：221
+  6304[DEBU][MainThread]MOUSEMOTION (547, 282)
+  6304[DEBU][MainThread]SWMOUSEMOTION (428, 0)
+  6304[INFO][MainThread]地图渲染区域大小：850x650
+  6305[INFO][MainThread]地图渲染方块区域：17x13
+  6305[INFO][MainThread]地图渲染方块数目：221
+  6334[DEBU][MainThread]MOUSEMOTION (528, 299)
+  6334[DEBU][MainThread]SWMOUSEMOTION (556, 0)
+  6334[INFO][MainThread]地图渲染区域大小：850x650
+  6335[INFO][MainThread]地图渲染方块区域：17x13
+  6335[INFO][MainThread]地图渲染方块数目：221
+  6362[DEBU][MainThread]MOUSEMOTION (587, 299)
+  6362[DEBU][MainThread]SWMOUSEMOTION (743, 0)
+  6362[INFO][MainThread]地图渲染区域大小：850x650
+  6363[INFO][MainThread]地图渲染方块区域：17x13
+  6363[INFO][MainThread]地图渲染方块数目：221
+  6390[DEBU][MainThread]MOUSEMOTION (544, 299)
+  6390[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+  6390[INFO][MainThread]地图渲染区域大小：850x650
+  6391[INFO][MainThread]地图渲染方块区域：17x13
+  6391[INFO][MainThread]地图渲染方块数目：221
+  6419[DEBU][MainThread]MOUSEMOTION (591, 328)
+  6419[DEBU][MainThread]SWMOUSEMOTION (800, 28)
+  6419[INFO][MainThread]地图渲染区域大小：850x650
+  6420[INFO][MainThread]地图渲染方块区域：17x13
+  6420[INFO][MainThread]地图渲染方块数目：221
+  6448[DEBU][MainThread]MOUSEMOTION (532, 341)
+  6448[DEBU][MainThread]SWMOUSEMOTION (800, 69)
+  6448[INFO][MainThread]地图渲染区域大小：850x650
+  6449[INFO][MainThread]地图渲染方块区域：17x13
+  6449[INFO][MainThread]地图渲染方块数目：221
+  6476[DEBU][MainThread]MOUSEMOTION (478, 336)
+  6476[DEBU][MainThread]SWMOUSEMOTION (800, 105)
+  6476[INFO][MainThread]地图渲染区域大小：850x650
+  6477[INFO][MainThread]地图渲染方块区域：17x13
+  6477[INFO][MainThread]地图渲染方块数目：221
+  6505[DEBU][MainThread]MOUSEMOTION (501, 359)
+  6505[DEBU][MainThread]SWMOUSEMOTION (800, 164)
+  6505[INFO][MainThread]地图渲染区域大小：850x650
+  6506[INFO][MainThread]地图渲染方块区域：17x13
+  6506[INFO][MainThread]地图渲染方块数目：221
+  6535[DEBU][MainThread]MOUSEMOTION (464, 336)
+  6535[DEBU][MainThread]SWMOUSEMOTION (800, 200)
+  6535[INFO][MainThread]地图渲染区域大小：850x650
+  6536[INFO][MainThread]地图渲染方块区域：17x13
+  6536[INFO][MainThread]地图渲染方块数目：221
+  6565[DEBU][MainThread]MOUSEMOTION (450, 342)
+  6565[DEBU][MainThread]SWMOUSEMOTION (800, 242)
+  6565[INFO][MainThread]地图渲染区域大小：850x650
+  6566[INFO][MainThread]地图渲染方块区域：17x13
+  6566[INFO][MainThread]地图渲染方块数目：221
+  6594[DEBU][MainThread]MOUSEMOTION (431, 353)
+  6594[DEBU][MainThread]SWMOUSEMOTION (800, 295)
+  6594[INFO][MainThread]地图渲染区域大小：850x650
+  6595[INFO][MainThread]地图渲染方块区域：17x13
+  6595[INFO][MainThread]地图渲染方块数目：221
+  6622[DEBU][MainThread]MOUSEMOTION (423, 353)
+  6622[DEBU][MainThread]SWMOUSEMOTION (800, 348)
+  6622[INFO][MainThread]地图渲染区域大小：850x650
+  6624[INFO][MainThread]地图渲染方块区域：17x13
+  6624[INFO][MainThread]地图渲染方块数目：221
+  6651[DEBU][MainThread]MOUSEMOTION (446, 408)
+  6651[DEBU][MainThread]SWMOUSEMOTION (800, 456)
+  6651[INFO][MainThread]地图渲染区域大小：850x650
+  6652[INFO][MainThread]地图渲染方块区域：17x13
+  6652[INFO][MainThread]地图渲染方块数目：221
+  6681[DEBU][MainThread]MOUSEMOTION (446, 425)
+  6681[DEBU][MainThread]SWMOUSEMOTION (800, 581)
+  6681[INFO][MainThread]地图渲染区域大小：850x650
+  6682[INFO][MainThread]地图渲染方块区域：17x13
+  6682[INFO][MainThread]地图渲染方块数目：221
+  6709[DEBU][MainThread]MOUSEMOTION (426, 388)
+  6709[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  6709[INFO][MainThread]地图渲染区域大小：850x650
+  6710[INFO][MainThread]地图渲染方块区域：17x13
+  6710[INFO][MainThread]地图渲染方块数目：221
+  6737[DEBU][MainThread]MOUSEMOTION (424, 392)
+  6737[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  6737[INFO][MainThread]地图渲染区域大小：850x650
+  6738[INFO][MainThread]地图渲染方块区域：17x13
+  6738[INFO][MainThread]地图渲染方块数目：221
+  6767[DEBU][MainThread]MOUSEMOTION (412, 352)
+  6767[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  6767[INFO][MainThread]地图渲染区域大小：850x650
+  6768[INFO][MainThread]地图渲染方块区域：17x13
+  6768[INFO][MainThread]地图渲染方块数目：221
+  6796[DEBU][MainThread]MOUSEMOTION (405, 347)
+  6796[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  6796[INFO][MainThread]地图渲染区域大小：850x650
+  6797[INFO][MainThread]地图渲染方块区域：17x13
+  6797[INFO][MainThread]地图渲染方块数目：221
+  6825[DEBU][MainThread]MOUSEMOTION (395, 338)
+  6825[DEBU][MainThread]SWMOUSEMOTION (795, 600)
+  6825[INFO][MainThread]地图渲染区域大小：850x650
+  6826[INFO][MainThread]地图渲染方块区域：17x13
+  6826[INFO][MainThread]地图渲染方块数目：221
+  6853[DEBU][MainThread]MOUSEMOTION (386, 324)
+  6853[DEBU][MainThread]SWMOUSEMOTION (781, 600)
+  6853[INFO][MainThread]地图渲染区域大小：850x650
+  6854[INFO][MainThread]地图渲染方块区域：17x13
+  6854[INFO][MainThread]地图渲染方块数目：221
+  6883[DEBU][MainThread]MOUSEMOTION (362, 334)
+  6883[DEBU][MainThread]SWMOUSEMOTION (743, 600)
+  6883[INFO][MainThread]地图渲染区域大小：850x650
+  6884[INFO][MainThread]地图渲染方块区域：17x13
+  6884[INFO][MainThread]地图渲染方块数目：221
+  6912[DEBU][MainThread]MOUSEMOTION (368, 326)
+  6912[DEBU][MainThread]SWMOUSEMOTION (711, 600)
+  6912[INFO][MainThread]地图渲染区域大小：850x650
+  6913[INFO][MainThread]地图渲染方块区域：17x13
+  6913[INFO][MainThread]地图渲染方块数目：221
+  6940[DEBU][MainThread]MOUSEMOTION (368, 320)
+  6940[DEBU][MainThread]SWMOUSEMOTION (679, 600)
+  6940[INFO][MainThread]地图渲染区域大小：850x650
+  6941[INFO][MainThread]地图渲染方块区域：17x13
+  6941[INFO][MainThread]地图渲染方块数目：221
+  6968[DEBU][MainThread]MOUSEMOTION (343, 321)
+  6968[DEBU][MainThread]SWMOUSEMOTION (622, 600)
+  6968[INFO][MainThread]地图渲染区域大小：850x650
+  6969[INFO][MainThread]地图渲染方块区域：17x13
+  6969[INFO][MainThread]地图渲染方块数目：221
+  6997[DEBU][MainThread]MOUSEMOTION (353, 310)
+  6997[DEBU][MainThread]SWMOUSEMOTION (575, 600)
+  6997[INFO][MainThread]地图渲染区域大小：850x650
+  6998[INFO][MainThread]地图渲染方块区域：17x13
+  6998[INFO][MainThread]地图渲染方块数目：221
+  7026[DEBU][MainThread]MOUSEMOTION (298, 308)
+  7026[DEBU][MainThread]SWMOUSEMOTION (473, 600)
+  7026[INFO][MainThread]地图渲染区域大小：850x650
+  7027[INFO][MainThread]地图渲染方块区域：17x13
+  7027[INFO][MainThread]地图渲染方块数目：221
+  7054[DEBU][MainThread]MOUSEMOTION (289, 300)
+  7054[DEBU][MainThread]SWMOUSEMOTION (362, 600)
+  7054[INFO][MainThread]地图渲染区域大小：850x650
+  7055[INFO][MainThread]地图渲染方块区域：17x13
+  7055[INFO][MainThread]地图渲染方块数目：221
+  7083[DEBU][MainThread]MOUSEMOTION (245, 300)
+  7083[DEBU][MainThread]SWMOUSEMOTION (207, 600)
+  7083[INFO][MainThread]地图渲染区域大小：850x650
+  7084[INFO][MainThread]地图渲染方块区域：17x13
+  7084[INFO][MainThread]地图渲染方块数目：221
+  7113[DEBU][MainThread]MOUSEMOTION (221, 267)
+  7113[DEBU][MainThread]SWMOUSEMOTION (28, 567)
+  7113[INFO][MainThread]地图渲染区域大小：850x650
+  7114[INFO][MainThread]地图渲染方块区域：17x13
+  7114[INFO][MainThread]地图渲染方块数目：221
+  7141[DEBU][MainThread]MOUSEMOTION (282, 285)
+  7142[DEBU][MainThread]SWMOUSEMOTION (0, 552)
+  7142[INFO][MainThread]地图渲染区域大小：850x650
+  7143[INFO][MainThread]地图渲染方块区域：17x13
+  7143[INFO][MainThread]地图渲染方块数目：221
+  7170[DEBU][MainThread]MOUSEMOTION (302, 282)
+  7170[DEBU][MainThread]SWMOUSEMOTION (0, 534)
+  7170[INFO][MainThread]地图渲染区域大小：850x650
+  7171[INFO][MainThread]地图渲染方块区域：17x13
+  7171[INFO][MainThread]地图渲染方块数目：221
+  7200[DEBU][MainThread]MOUSEMOTION (318, 283)
+  7200[DEBU][MainThread]SWMOUSEMOTION (0, 517)
+  7200[INFO][MainThread]地图渲染区域大小：850x650
+  7201[INFO][MainThread]地图渲染方块区域：17x13
+  7201[INFO][MainThread]地图渲染方块数目：221
+  7229[DEBU][MainThread]MOUSEMOTION (327, 273)
+  7229[DEBU][MainThread]SWMOUSEMOTION (0, 490)
+  7229[INFO][MainThread]地图渲染区域大小：850x650
+  7230[INFO][MainThread]地图渲染方块区域：17x13
+  7230[INFO][MainThread]地图渲染方块数目：221
+  7257[DEBU][MainThread]MOUSEMOTION (244, 233)
+  7257[DEBU][MainThread]SWMOUSEMOTION (0, 423)
+  7257[INFO][MainThread]地图渲染区域大小：850x650
+  7258[INFO][MainThread]地图渲染方块区域：17x13
+  7258[INFO][MainThread]地图渲染方块数目：221
+  7286[DEBU][MainThread]MOUSEMOTION (288, 250)
+  7286[DEBU][MainThread]SWMOUSEMOTION (0, 373)
+  7286[INFO][MainThread]地图渲染区域大小：850x650
+  7287[INFO][MainThread]地图渲染方块区域：17x13
+  7287[INFO][MainThread]地图渲染方块数目：221
+  7316[DEBU][MainThread]MOUSEMOTION (260, 213)
+  7316[DEBU][MainThread]SWMOUSEMOTION (0, 286)
+  7316[INFO][MainThread]地图渲染区域大小：850x650
+  7317[INFO][MainThread]地图渲染方块区域：17x13
+  7317[INFO][MainThread]地图渲染方块数目：221
+  7345[DEBU][MainThread]MOUSEMOTION (315, 231)
+  7345[DEBU][MainThread]SWMOUSEMOTION (0, 217)
+  7345[INFO][MainThread]地图渲染区域大小：850x650
+  7346[INFO][MainThread]地图渲染方块区域：17x13
+  7346[INFO][MainThread]地图渲染方块数目：221
+  7373[DEBU][MainThread]MOUSEMOTION (357, 263)
+  7374[DEBU][MainThread]SWMOUSEMOTION (0, 180)
+  7374[INFO][MainThread]地图渲染区域大小：850x650
+  7375[INFO][MainThread]地图渲染方块区域：17x13
+  7375[INFO][MainThread]地图渲染方块数目：221
+  7402[DEBU][MainThread]MOUSEMOTION (362, 243)
+  7402[DEBU][MainThread]SWMOUSEMOTION (0, 123)
+  7402[INFO][MainThread]地图渲染区域大小：850x650
+  7403[INFO][MainThread]地图渲染方块区域：17x13
+  7403[INFO][MainThread]地图渲染方块数目：221
+  7432[DEBU][MainThread]MOUSEMOTION (372, 240)
+  7432[DEBU][MainThread]SWMOUSEMOTION (0, 63)
+  7432[INFO][MainThread]地图渲染区域大小：850x650
+  7433[INFO][MainThread]地图渲染方块区域：17x13
+  7433[INFO][MainThread]地图渲染方块数目：221
+  7461[DEBU][MainThread]MOUSEMOTION (382, 237)
+  7461[DEBU][MainThread]SWMOUSEMOTION (0, 0)
+  7461[INFO][MainThread]地图渲染区域大小：850x650
+  7462[INFO][MainThread]地图渲染方块区域：17x13
+  7462[INFO][MainThread]地图渲染方块数目：221
+  7490[DEBU][MainThread]MOUSEMOTION (367, 217)
+  7490[DEBU][MainThread]SWMOUSEMOTION (0, 0)
+  7490[INFO][MainThread]地图渲染区域大小：850x650
+  7492[INFO][MainThread]地图渲染方块区域：17x13
+  7492[INFO][MainThread]地图渲染方块数目：221
+  7519[DEBU][MainThread]MOUSEMOTION (387, 256)
+  7519[DEBU][MainThread]SWMOUSEMOTION (0, 0)
+  7519[INFO][MainThread]地图渲染区域大小：850x650
+  7520[INFO][MainThread]地图渲染方块区域：17x13
+  7520[INFO][MainThread]地图渲染方块数目：221
+  7548[DEBU][MainThread]MOUSEMOTION (398, 240)
+  7548[DEBU][MainThread]SWMOUSEMOTION (0, 0)
+  7548[INFO][MainThread]地图渲染区域大小：850x650
+  7549[INFO][MainThread]地图渲染方块区域：17x13
+  7549[INFO][MainThread]地图渲染方块数目：221
+  7576[DEBU][MainThread]MOUSEMOTION (415, 233)
+  7576[DEBU][MainThread]SWMOUSEMOTION (15, 0)
+  7576[INFO][MainThread]地图渲染区域大小：850x650
+  7577[INFO][MainThread]地图渲染方块区域：17x13
+  7577[INFO][MainThread]地图渲染方块数目：221
+  7603[DEBU][MainThread]MOUSEMOTION (420, 253)
+  7603[DEBU][MainThread]SWMOUSEMOTION (35, 0)
+  7603[INFO][MainThread]地图渲染区域大小：850x650
+  7604[INFO][MainThread]地图渲染方块区域：17x13
+  7604[INFO][MainThread]地图渲染方块数目：221
+  7633[DEBU][MainThread]MOUSEMOTION (437, 247)
+  7633[DEBU][MainThread]SWMOUSEMOTION (72, 0)
+  7633[INFO][MainThread]地图渲染区域大小：850x650
+  7634[INFO][MainThread]地图渲染方块区域：17x13
+  7634[INFO][MainThread]地图渲染方块数目：221
+  7662[DEBU][MainThread]MOUSEMOTION (441, 267)
+  7662[DEBU][MainThread]SWMOUSEMOTION (113, 0)
+  7662[INFO][MainThread]地图渲染区域大小：850x650
+  7663[INFO][MainThread]地图渲染方块区域：17x13
+  7663[INFO][MainThread]地图渲染方块数目：221
+  7690[DEBU][MainThread]MOUSEMOTION (478, 271)
+  7691[DEBU][MainThread]SWMOUSEMOTION (191, 0)
+  7691[INFO][MainThread]地图渲染区域大小：850x650
+  7691[INFO][MainThread]地图渲染方块区域：17x13
+  7691[INFO][MainThread]地图渲染方块数目：221
+  7719[DEBU][MainThread]MOUSEMOTION (483, 283)
+  7719[DEBU][MainThread]SWMOUSEMOTION (274, 0)
+  7719[INFO][MainThread]地图渲染区域大小：850x650
+  7720[INFO][MainThread]地图渲染方块区域：17x13
+  7720[INFO][MainThread]地图渲染方块数目：221
+  7748[DEBU][MainThread]MOUSEMOTION (512, 284)
+  7748[DEBU][MainThread]SWMOUSEMOTION (386, 0)
+  7748[INFO][MainThread]地图渲染区域大小：850x650
+  7749[INFO][MainThread]地图渲染方块区域：17x13
+  7749[INFO][MainThread]地图渲染方块数目：221
+  7779[DEBU][MainThread]MOUSEMOTION (489, 289)
+  7779[DEBU][MainThread]SWMOUSEMOTION (475, 0)
+  7779[INFO][MainThread]地图渲染区域大小：850x650
+  7780[INFO][MainThread]地图渲染方块区域：17x13
+  7780[INFO][MainThread]地图渲染方块数目：221
+  7807[DEBU][MainThread]MOUSEMOTION (461, 300)
+  7807[DEBU][MainThread]SWMOUSEMOTION (536, 0)
+  7807[INFO][MainThread]地图渲染区域大小：850x650
+  7808[INFO][MainThread]地图渲染方块区域：17x13
+  7808[INFO][MainThread]地图渲染方块数目：221
+  7836[DEBU][MainThread]MOUSEMOTION (518, 312)
+  7836[DEBU][MainThread]SWMOUSEMOTION (654, 12)
+  7836[INFO][MainThread]地图渲染区域大小：850x650
+  7837[INFO][MainThread]地图渲染方块区域：17x13
+  7837[INFO][MainThread]地图渲染方块数目：221
+  7865[DEBU][MainThread]MOUSEMOTION (565, 347)
+  7865[DEBU][MainThread]SWMOUSEMOTION (800, 59)
+  7865[INFO][MainThread]地图渲染区域大小：850x650
+  7866[INFO][MainThread]地图渲染方块区域：17x13
+  7866[INFO][MainThread]地图渲染方块数目：221
+  7895[DEBU][MainThread]MOUSEMOTION (509, 345)
+  7895[DEBU][MainThread]SWMOUSEMOTION (800, 104)
+  7895[INFO][MainThread]地图渲染区域大小：850x650
+  7896[INFO][MainThread]地图渲染方块区域：17x13
+  7896[INFO][MainThread]地图渲染方块数目：221
+  7923[DEBU][MainThread]MOUSEMOTION (534, 362)
+  7923[DEBU][MainThread]SWMOUSEMOTION (800, 166)
+  7923[INFO][MainThread]地图渲染区域大小：850x650
+  7924[INFO][MainThread]地图渲染方块区域：17x13
+  7925[INFO][MainThread]地图渲染方块数目：221
+  7951[DEBU][MainThread]MOUSEMOTION (514, 358)
+  7951[DEBU][MainThread]SWMOUSEMOTION (800, 224)
+  7951[INFO][MainThread]地图渲染区域大小：850x650
+  7952[INFO][MainThread]地图渲染方块区域：17x13
+  7952[INFO][MainThread]地图渲染方块数目：221
+  7981[DEBU][MainThread]MOUSEMOTION (528, 386)
+  7981[DEBU][MainThread]SWMOUSEMOTION (800, 310)
+  7981[INFO][MainThread]地图渲染区域大小：850x650
+  7982[INFO][MainThread]地图渲染方块区域：17x13
+  7982[INFO][MainThread]地图渲染方块数目：221
+  8009[DEBU][MainThread]MOUSEMOTION (463, 386)
+  8009[DEBU][MainThread]SWMOUSEMOTION (800, 396)
+  8009[INFO][MainThread]地图渲染区域大小：850x650
+  8010[INFO][MainThread]地图渲染方块区域：17x13
+  8010[INFO][MainThread]地图渲染方块数目：221
+  8037[DEBU][MainThread]MOUSEMOTION (439, 388)
+  8037[DEBU][MainThread]SWMOUSEMOTION (800, 484)
+  8037[INFO][MainThread]地图渲染区域大小：850x650
+  8038[INFO][MainThread]地图渲染方块区域：17x13
+  8038[INFO][MainThread]地图渲染方块数目：221
+  8067[DEBU][MainThread]MOUSEMOTION (447, 430)
+  8067[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  8067[INFO][MainThread]地图渲染区域大小：850x650
+  8068[INFO][MainThread]地图渲染方块区域：17x13
+  8068[INFO][MainThread]地图渲染方块数目：221
+  8097[DEBU][MainThread]MOUSEMOTION (417, 368)
+  8097[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  8097[INFO][MainThread]地图渲染区域大小：850x650
+  8098[INFO][MainThread]地图渲染方块区域：17x13
+  8098[INFO][MainThread]地图渲染方块数目：221
+  8125[DEBU][MainThread]MOUSEMOTION (402, 327)
+  8125[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  8125[INFO][MainThread]地图渲染区域大小：850x650
+  8126[INFO][MainThread]地图渲染方块区域：17x13
+  8126[INFO][MainThread]地图渲染方块数目：221
+  8153[DEBU][MainThread]MOUSEMOTION (400, 327)
+  8153[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  8153[INFO][MainThread]地图渲染区域大小：850x650
+  8154[INFO][MainThread]地图渲染方块区域：17x13
+  8154[INFO][MainThread]地图渲染方块数目：221
+  8183[DEBU][MainThread]MOUSEMOTION (390, 318)
+  8183[DEBU][MainThread]SWMOUSEMOTION (790, 600)
+  8183[INFO][MainThread]地图渲染区域大小：850x650
+  8184[INFO][MainThread]地图渲染方块区域：17x13
+  8184[INFO][MainThread]地图渲染方块数目：221
+  8213[DEBU][MainThread]MOUSEMOTION (369, 331)
+  8213[DEBU][MainThread]SWMOUSEMOTION (759, 600)
+  8213[INFO][MainThread]地图渲染区域大小：850x650
+  8214[INFO][MainThread]地图渲染方块区域：17x13
+  8214[INFO][MainThread]地图渲染方块数目：221
+  8241[DEBU][MainThread]MOUSEMOTION (347, 343)
+  8241[DEBU][MainThread]SWMOUSEMOTION (706, 600)
+  8241[INFO][MainThread]地图渲染区域大小：850x650
+  8242[INFO][MainThread]地图渲染方块区域：17x13
+  8242[INFO][MainThread]地图渲染方块数目：221
+  8269[DEBU][MainThread]MOUSEMOTION (345, 338)
+  8269[DEBU][MainThread]SWMOUSEMOTION (651, 600)
+  8269[INFO][MainThread]地图渲染区域大小：850x650
+  8270[INFO][MainThread]地图渲染方块区域：17x13
+  8270[INFO][MainThread]地图渲染方块数目：221
+  8298[DEBU][MainThread]MOUSEMOTION (329, 345)
+  8298[DEBU][MainThread]SWMOUSEMOTION (580, 600)
+  8298[INFO][MainThread]地图渲染区域大小：850x650
+  8299[INFO][MainThread]地图渲染方块区域：17x13
+  8300[INFO][MainThread]地图渲染方块数目：221
+  8330[DEBU][MainThread]MOUSEMOTION (307, 334)
+  8330[DEBU][MainThread]SWMOUSEMOTION (487, 600)
+  8330[INFO][MainThread]地图渲染区域大小：850x650
+  8331[INFO][MainThread]地图渲染方块区域：17x13
+  8331[INFO][MainThread]地图渲染方块数目：221
+  8360[DEBU][MainThread]MOUSEMOTION (303, 323)
+  8360[DEBU][MainThread]SWMOUSEMOTION (390, 600)
+  8360[INFO][MainThread]地图渲染区域大小：850x650
+  8361[INFO][MainThread]地图渲染方块区域：17x13
+  8361[INFO][MainThread]地图渲染方块数目：221
+  8389[DEBU][MainThread]MOUSEMOTION (302, 300)
+  8389[DEBU][MainThread]SWMOUSEMOTION (292, 600)
+  8389[INFO][MainThread]地图渲染区域大小：850x650
+  8391[INFO][MainThread]地图渲染方块区域：17x13
+  8391[INFO][MainThread]地图渲染方块数目：221
+  8419[DEBU][MainThread]MOUSEMOTION (217, 284)
+  8419[DEBU][MainThread]SWMOUSEMOTION (109, 584)
+  8419[INFO][MainThread]地图渲染区域大小：850x650
+  8421[INFO][MainThread]地图渲染方块区域：17x13
+  8421[INFO][MainThread]地图渲染方块数目：221
+  8450[DEBU][MainThread]MOUSEMOTION (244, 274)
+  8450[DEBU][MainThread]SWMOUSEMOTION (0, 558)
+  8450[INFO][MainThread]地图渲染区域大小：850x650
+  8451[INFO][MainThread]地图渲染方块区域：17x13
+  8451[INFO][MainThread]地图渲染方块数目：221
+  8479[DEBU][MainThread]MOUSEMOTION (324, 287)
+  8479[DEBU][MainThread]SWMOUSEMOTION (0, 545)
+  8480[INFO][MainThread]地图渲染区域大小：850x650
+  8480[INFO][MainThread]地图渲染方块区域：17x13
+  8480[INFO][MainThread]地图渲染方块数目：221
+  8508[DEBU][MainThread]MOUSEMOTION (317, 281)
+  8508[DEBU][MainThread]SWMOUSEMOTION (0, 526)
+  8508[INFO][MainThread]地图渲染区域大小：850x650
+  8509[INFO][MainThread]地图渲染方块区域：17x13
+  8509[INFO][MainThread]地图渲染方块数目：221
+  8536[DEBU][MainThread]MOUSEMOTION (337, 283)
+  8537[DEBU][MainThread]SWMOUSEMOTION (0, 509)
+  8537[INFO][MainThread]地图渲染区域大小：850x650
+  8538[INFO][MainThread]地图渲染方块区域：17x13
+  8538[INFO][MainThread]地图渲染方块数目：221
+  8566[DEBU][MainThread]MOUSEMOTION (344, 282)
+  8566[DEBU][MainThread]SWMOUSEMOTION (0, 491)
+  8566[INFO][MainThread]地图渲染区域大小：850x650
+  8567[INFO][MainThread]地图渲染方块区域：17x13
+  8567[INFO][MainThread]地图渲染方块数目：221
+  8596[DEBU][MainThread]MOUSEMOTION (322, 269)
+  8596[DEBU][MainThread]SWMOUSEMOTION (0, 460)
+  8596[INFO][MainThread]地图渲染区域大小：850x650
+  8597[INFO][MainThread]地图渲染方块区域：17x13
+  8597[INFO][MainThread]地图渲染方块数目：221
+  8624[DEBU][MainThread]MOUSEMOTION (306, 242)
+  8624[DEBU][MainThread]SWMOUSEMOTION (0, 402)
+  8624[INFO][MainThread]地图渲染区域大小：850x650
+  8625[INFO][MainThread]地图渲染方块区域：17x13
+  8625[INFO][MainThread]地图渲染方块数目：221
+  8653[DEBU][MainThread]MOUSEMOTION (336, 244)
+  8653[DEBU][MainThread]SWMOUSEMOTION (0, 346)
+  8653[INFO][MainThread]地图渲染区域大小：850x650
+  8654[INFO][MainThread]地图渲染方块区域：17x13
+  8654[INFO][MainThread]地图渲染方块数目：221
+  8683[DEBU][MainThread]MOUSEMOTION (343, 228)
+  8683[DEBU][MainThread]SWMOUSEMOTION (0, 274)
+  8683[INFO][MainThread]地图渲染区域大小：850x650
+  8685[INFO][MainThread]地图渲染方块区域：17x13
+  8685[INFO][MainThread]地图渲染方块数目：221
+  8713[DEBU][MainThread]MOUSEMOTION (364, 241)
+  8713[DEBU][MainThread]SWMOUSEMOTION (0, 215)
+  8713[INFO][MainThread]地图渲染区域大小：850x650
+  8714[INFO][MainThread]地图渲染方块区域：17x13
+  8714[INFO][MainThread]地图渲染方块数目：221
+  8741[DEBU][MainThread]MOUSEMOTION (386, 268)
+  8741[DEBU][MainThread]SWMOUSEMOTION (0, 183)
+  8741[INFO][MainThread]地图渲染区域大小：850x650
+  8742[INFO][MainThread]地图渲染方块区域：17x13
+  8742[INFO][MainThread]地图渲染方块数目：221
+  8769[DEBU][MainThread]MOUSEMOTION (387, 255)
+  8769[DEBU][MainThread]SWMOUSEMOTION (0, 138)
+  8770[INFO][MainThread]地图渲染区域大小：850x650
+  8770[INFO][MainThread]地图渲染方块区域：17x13
+  8771[INFO][MainThread]地图渲染方块数目：221
+  8799[DEBU][MainThread]MOUSEMOTION (393, 260)
+  8799[DEBU][MainThread]SWMOUSEMOTION (0, 98)
+  8799[INFO][MainThread]地图渲染区域大小：850x650
+  8800[INFO][MainThread]地图渲染方块区域：17x13
+  8800[INFO][MainThread]地图渲染方块数目：221
+  8829[DEBU][MainThread]MOUSEMOTION (399, 244)
+  8829[DEBU][MainThread]SWMOUSEMOTION (0, 42)
+  8829[INFO][MainThread]地图渲染区域大小：850x650
+  8830[INFO][MainThread]地图渲染方块区域：17x13
+  8830[INFO][MainThread]地图渲染方块数目：221
+  8857[DEBU][MainThread]MOUSEMOTION (417, 233)
+  8858[DEBU][MainThread]SWMOUSEMOTION (17, 0)
+  8858[INFO][MainThread]地图渲染区域大小：850x650
+  8858[INFO][MainThread]地图渲染方块区域：17x13
+  8858[INFO][MainThread]地图渲染方块数目：221
+  8885[DEBU][MainThread]MOUSEMOTION (422, 252)
+  8886[DEBU][MainThread]SWMOUSEMOTION (39, 0)
+  8886[INFO][MainThread]地图渲染区域大小：850x650
+  8887[INFO][MainThread]地图渲染方块区域：17x13
+  8887[INFO][MainThread]地图渲染方块数目：221
+  8915[DEBU][MainThread]MOUSEMOTION (441, 245)
+  8915[DEBU][MainThread]SWMOUSEMOTION (80, 0)
+  8915[INFO][MainThread]地图渲染区域大小：850x650
+  8916[INFO][MainThread]地图渲染方块区域：17x13
+  8916[INFO][MainThread]地图渲染方块数目：221
+  8945[DEBU][MainThread]MOUSEMOTION (462, 251)
+  8945[DEBU][MainThread]SWMOUSEMOTION (142, 0)
+  8945[INFO][MainThread]地图渲染区域大小：850x650
+  8946[INFO][MainThread]地图渲染方块区域：17x13
+  8946[INFO][MainThread]地图渲染方块数目：221
+  8973[DEBU][MainThread]MOUSEMOTION (459, 271)
+  8973[DEBU][MainThread]SWMOUSEMOTION (201, 0)
+  8974[INFO][MainThread]地图渲染区域大小：850x650
+  8974[INFO][MainThread]地图渲染方块区域：17x13
+  8975[INFO][MainThread]地图渲染方块数目：221
+  9002[DEBU][MainThread]MOUSEMOTION (487, 269)
+  9003[DEBU][MainThread]SWMOUSEMOTION (288, 0)
+  9003[INFO][MainThread]地图渲染区域大小：850x650
+  9003[INFO][MainThread]地图渲染方块区域：17x13
+  9004[INFO][MainThread]地图渲染方块数目：221
+  9031[DEBU][MainThread]MOUSEMOTION (509, 289)
+  9031[DEBU][MainThread]SWMOUSEMOTION (397, 0)
+  9031[INFO][MainThread]地图渲染区域大小：850x650
+  9032[INFO][MainThread]地图渲染方块区域：17x13
+  9032[INFO][MainThread]地图渲染方块数目：221
+  9061[DEBU][MainThread]MOUSEMOTION (552, 299)
+  9061[DEBU][MainThread]SWMOUSEMOTION (549, 0)
+  9061[INFO][MainThread]地图渲染区域大小：850x650
+  9062[INFO][MainThread]地图渲染方块区域：17x13
+  9062[INFO][MainThread]地图渲染方块数目：221
+  9090[DEBU][MainThread]MOUSEMOTION (517, 299)
+  9090[DEBU][MainThread]SWMOUSEMOTION (666, 0)
+  9090[INFO][MainThread]地图渲染区域大小：850x650
+  9091[INFO][MainThread]地图渲染方块区域：17x13
+  9091[INFO][MainThread]地图渲染方块数目：221
+  9118[DEBU][MainThread]MOUSEMOTION (479, 299)
+  9118[DEBU][MainThread]SWMOUSEMOTION (745, 0)
+  9118[INFO][MainThread]地图渲染区域大小：850x650
+  9119[INFO][MainThread]地图渲染方块区域：17x13
+  9120[INFO][MainThread]地图渲染方块数目：221
+  9148[DEBU][MainThread]MOUSEMOTION (508, 311)
+  9148[DEBU][MainThread]SWMOUSEMOTION (800, 11)
+  9148[INFO][MainThread]地图渲染区域大小：850x650
+  9149[INFO][MainThread]地图渲染方块区域：17x13
+  9149[INFO][MainThread]地图渲染方块数目：221
+  9178[DEBU][MainThread]MOUSEMOTION (508, 327)
+  9178[DEBU][MainThread]SWMOUSEMOTION (800, 38)
+  9178[INFO][MainThread]地图渲染区域大小：850x650
+  9179[INFO][MainThread]地图渲染方块区域：17x13
+  9179[INFO][MainThread]地图渲染方块数目：221
+  9205[DEBU][MainThread]MOUSEMOTION (479, 331)
+  9205[DEBU][MainThread]SWMOUSEMOTION (800, 69)
+  9205[INFO][MainThread]地图渲染区域大小：850x650
+  9206[INFO][MainThread]地图渲染方块区域：17x13
+  9206[INFO][MainThread]地图渲染方块数目：221
+  9233[DEBU][MainThread]MOUSEMOTION (504, 359)
+  9233[DEBU][MainThread]SWMOUSEMOTION (800, 128)
+  9233[INFO][MainThread]地图渲染区域大小：850x650
+  9234[INFO][MainThread]地图渲染方块区域：17x13
+  9234[INFO][MainThread]地图渲染方块数目：221
+  9262[DEBU][MainThread]MOUSEMOTION (474, 362)
+  9262[DEBU][MainThread]SWMOUSEMOTION (800, 190)
+  9262[INFO][MainThread]地图渲染区域大小：850x650
+  9263[INFO][MainThread]地图渲染方块区域：17x13
+  9263[INFO][MainThread]地图渲染方块数目：221
+  9293[DEBU][MainThread]MOUSEMOTION (475, 389)
+  9293[DEBU][MainThread]SWMOUSEMOTION (800, 279)
+  9293[INFO][MainThread]地图渲染区域大小：850x650
+  9294[INFO][MainThread]地图渲染方块区域：17x13
+  9294[INFO][MainThread]地图渲染方块数目：221
+  9326[DEBU][MainThread]MOUSEMOTION (429, 361)
+  9326[DEBU][MainThread]SWMOUSEMOTION (800, 340)
+  9326[INFO][MainThread]地图渲染区域大小：850x650
+  9327[INFO][MainThread]地图渲染方块区域：17x13
+  9327[INFO][MainThread]地图渲染方块数目：221
+  9354[DEBU][MainThread]MOUSEMOTION (427, 378)
+  9355[DEBU][MainThread]SWMOUSEMOTION (800, 418)
+  9355[INFO][MainThread]地图渲染区域大小：850x650
+  9355[INFO][MainThread]地图渲染方块区域：17x13
+  9356[INFO][MainThread]地图渲染方块数目：221
+  9382[DEBU][MainThread]MOUSEMOTION (416, 365)
+  9382[DEBU][MainThread]SWMOUSEMOTION (800, 483)
   9382[INFO][MainThread]地图渲染区域大小：850x650
   9383[INFO][MainThread]地图渲染方块区域：17x13
-  9384[INFO][MainThread]地图渲染方块数目：221
-  9578[INFO][MainThread]地图渲染区域大小：850x650
-  9579[INFO][MainThread]地图渲染方块区域：17x13
-  9580[INFO][MainThread]地图渲染方块数目：221
-  9782[INFO][MainThread]地图渲染区域大小：850x650
-  9784[INFO][MainThread]地图渲染方块区域：17x13
-  9784[INFO][MainThread]地图渲染方块数目：221
-  9977[INFO][MainThread]地图渲染区域大小：850x650
-  9978[INFO][MainThread]地图渲染方块区域：17x13
-  9979[INFO][MainThread]地图渲染方块数目：221
- 10171[INFO][MainThread]地图渲染区域大小：850x650
- 10172[INFO][MainThread]地图渲染方块区域：17x13
- 10173[INFO][MainThread]地图渲染方块数目：221
- 10772[INFO][MainThread]地图渲染区域大小：850x650
- 10773[INFO][MainThread]地图渲染方块区域：17x13
- 10773[INFO][MainThread]地图渲染方块数目：221
- 10999[INFO][MainThread]地图渲染区域大小：850x650
- 11000[INFO][MainThread]地图渲染方块区域：17x13
- 11001[INFO][MainThread]地图渲染方块数目：221
- 11243[INFO][MainThread]地图渲染区域大小：850x650
- 11244[INFO][MainThread]地图渲染方块区域：17x13
- 11244[INFO][MainThread]地图渲染方块数目：221
- 11481[INFO][MainThread]地图渲染区域大小：850x650
- 11483[INFO][MainThread]地图渲染方块区域：17x13
- 11483[INFO][MainThread]地图渲染方块数目：221
- 11717[INFO][MainThread]地图渲染区域大小：850x650
- 11718[INFO][MainThread]地图渲染方块区域：17x13
- 11718[INFO][MainThread]地图渲染方块数目：221
- 11923[INFO][MainThread]地图渲染区域大小：850x650
- 11925[INFO][MainThread]地图渲染方块区域：17x13
- 11925[INFO][MainThread]地图渲染方块数目：221
- 12254[INFO][MainThread]地图渲染区域大小：850x650
- 12255[INFO][MainThread]地图渲染方块区域：17x13
- 12256[INFO][MainThread]地图渲染方块数目：221
- 14803[INFO][MainThread]地图渲染区域大小：850x650
- 14805[INFO][MainThread]地图渲染方块区域：17x13
- 14805[INFO][MainThread]地图渲染方块数目：221
- 14836[INFO][MainThread]地图渲染区域大小：850x650
- 14837[INFO][MainThread]地图渲染方块区域：17x13
- 14837[INFO][MainThread]地图渲染方块数目：221
- 14866[INFO][MainThread]地图渲染区域大小：850x650
- 14867[INFO][MainThread]地图渲染方块区域：17x13
- 14868[INFO][MainThread]地图渲染方块数目：221
- 14897[INFO][MainThread]地图渲染区域大小：850x650
- 14898[INFO][MainThread]地图渲染方块区域：17x13
- 14898[INFO][MainThread]地图渲染方块数目：221
- 14929[INFO][MainThread]地图渲染区域大小：850x650
- 14930[INFO][MainThread]地图渲染方块区域：17x13
- 14931[INFO][MainThread]地图渲染方块数目：221
- 14960[INFO][MainThread]地图渲染区域大小：850x650
- 14961[INFO][MainThread]地图渲染方块区域：17x13
- 14961[INFO][MainThread]地图渲染方块数目：221
- 14991[INFO][MainThread]地图渲染区域大小：850x650
- 14992[INFO][MainThread]地图渲染方块区域：17x13
- 14993[INFO][MainThread]地图渲染方块数目：221
- 15022[INFO][MainThread]地图渲染区域大小：850x650
- 15023[INFO][MainThread]地图渲染方块区域：17x13
- 15024[INFO][MainThread]地图渲染方块数目：221
- 15052[INFO][MainThread]地图渲染区域大小：850x650
- 15053[INFO][MainThread]地图渲染方块区域：17x13
- 15054[INFO][MainThread]地图渲染方块数目：221
- 15085[INFO][MainThread]地图渲染区域大小：850x650
- 15086[INFO][MainThread]地图渲染方块区域：17x13
- 15086[INFO][MainThread]地图渲染方块数目：221
- 15116[INFO][MainThread]地图渲染区域大小：850x650
- 15117[INFO][MainThread]地图渲染方块区域：17x13
- 15118[INFO][MainThread]地图渲染方块数目：221
- 15148[INFO][MainThread]地图渲染区域大小：850x650
- 15149[INFO][MainThread]地图渲染方块区域：17x13
- 15149[INFO][MainThread]地图渲染方块数目：221
- 15179[INFO][MainThread]地图渲染区域大小：850x650
- 15180[INFO][MainThread]地图渲染方块区域：17x13
- 15181[INFO][MainThread]地图渲染方块数目：221
- 15211[INFO][MainThread]地图渲染区域大小：850x650
- 15212[INFO][MainThread]地图渲染方块区域：17x13
- 15213[INFO][MainThread]地图渲染方块数目：221
- 15244[INFO][MainThread]地图渲染区域大小：850x650
- 15245[INFO][MainThread]地图渲染方块区域：17x13
- 15245[INFO][MainThread]地图渲染方块数目：221
- 15275[INFO][MainThread]地图渲染区域大小：850x650
- 15276[INFO][MainThread]地图渲染方块区域：17x13
- 15277[INFO][MainThread]地图渲染方块数目：221
- 15307[INFO][MainThread]地图渲染区域大小：850x650
- 15308[INFO][MainThread]地图渲染方块区域：17x13
- 15309[INFO][MainThread]地图渲染方块数目：221
- 15338[INFO][MainThread]地图渲染区域大小：850x650
- 15339[INFO][MainThread]地图渲染方块区域：17x13
- 15339[INFO][MainThread]地图渲染方块数目：221
- 15369[INFO][MainThread]地图渲染区域大小：850x650
- 15370[INFO][MainThread]地图渲染方块区域：17x13
- 15370[INFO][MainThread]地图渲染方块数目：221
- 15401[INFO][MainThread]地图渲染区域大小：850x650
- 15402[INFO][MainThread]地图渲染方块区域：17x13
- 15403[INFO][MainThread]地图渲染方块数目：221
- 15432[INFO][MainThread]地图渲染区域大小：850x650
- 15433[INFO][MainThread]地图渲染方块区域：17x13
- 15434[INFO][MainThread]地图渲染方块数目：221
- 15465[INFO][MainThread]地图渲染区域大小：850x650
- 15466[INFO][MainThread]地图渲染方块区域：17x13
- 15466[INFO][MainThread]地图渲染方块数目：221
- 15508[INFO][MainThread]地图渲染区域大小：850x650
- 15510[INFO][MainThread]地图渲染方块区域：17x13
- 15510[INFO][MainThread]地图渲染方块数目：221
- 15546[INFO][MainThread]地图渲染区域大小：850x650
- 15547[INFO][MainThread]地图渲染方块区域：17x13
- 15547[INFO][MainThread]地图渲染方块数目：221
- 15579[INFO][MainThread]地图渲染区域大小：850x650
- 15580[INFO][MainThread]地图渲染方块区域：17x13
- 15580[INFO][MainThread]地图渲染方块数目：221
- 15607[INFO][MainThread]地图渲染区域大小：850x650
- 15608[INFO][MainThread]地图渲染方块区域：17x13
- 15609[INFO][MainThread]地图渲染方块数目：221
- 15637[INFO][MainThread]地图渲染区域大小：850x650
- 15638[INFO][MainThread]地图渲染方块区域：17x13
- 15639[INFO][MainThread]地图渲染方块数目：221
- 15666[INFO][MainThread]地图渲染区域大小：850x650
- 15667[INFO][MainThread]地图渲染方块区域：17x13
- 15667[INFO][MainThread]地图渲染方块数目：221
- 15698[INFO][MainThread]地图渲染区域大小：850x650
- 15699[INFO][MainThread]地图渲染方块区域：17x13
- 15699[INFO][MainThread]地图渲染方块数目：221
- 15730[INFO][MainThread]地图渲染区域大小：850x650
- 15731[INFO][MainThread]地图渲染方块区域：17x13
- 15732[INFO][MainThread]地图渲染方块数目：221
- 15762[INFO][MainThread]地图渲染区域大小：850x650
- 15763[INFO][MainThread]地图渲染方块区域：17x13
- 15763[INFO][MainThread]地图渲染方块数目：221
- 15795[INFO][MainThread]地图渲染区域大小：850x650
- 15796[INFO][MainThread]地图渲染方块区域：17x13
- 15796[INFO][MainThread]地图渲染方块数目：221
- 15827[INFO][MainThread]地图渲染区域大小：850x650
- 15828[INFO][MainThread]地图渲染方块区域：17x13
- 15828[INFO][MainThread]地图渲染方块数目：221
- 15858[INFO][MainThread]地图渲染区域大小：850x650
- 15859[INFO][MainThread]地图渲染方块区域：17x13
- 15860[INFO][MainThread]地图渲染方块数目：221
- 15891[INFO][MainThread]地图渲染区域大小：850x650
- 15892[INFO][MainThread]地图渲染方块区域：17x13
- 15893[INFO][MainThread]地图渲染方块数目：221
- 15924[INFO][MainThread]地图渲染区域大小：850x650
- 15925[INFO][MainThread]地图渲染方块区域：17x13
- 15925[INFO][MainThread]地图渲染方块数目：221
- 15957[INFO][MainThread]地图渲染区域大小：850x650
- 15958[INFO][MainThread]地图渲染方块区域：17x13
- 15958[INFO][MainThread]地图渲染方块数目：221
- 15988[INFO][MainThread]地图渲染区域大小：850x650
- 15989[INFO][MainThread]地图渲染方块区域：17x13
- 15989[INFO][MainThread]地图渲染方块数目：221
- 16021[INFO][MainThread]地图渲染区域大小：850x650
- 16022[INFO][MainThread]地图渲染方块区域：17x13
- 16022[INFO][MainThread]地图渲染方块数目：221
- 16053[INFO][MainThread]地图渲染区域大小：850x650
- 16054[INFO][MainThread]地图渲染方块区域：17x13
- 16055[INFO][MainThread]地图渲染方块数目：221
- 16085[INFO][MainThread]地图渲染区域大小：850x650
- 16086[INFO][MainThread]地图渲染方块区域：17x13
- 16086[INFO][MainThread]地图渲染方块数目：221
- 16117[INFO][MainThread]地图渲染区域大小：850x650
- 16118[INFO][MainThread]地图渲染方块区域：17x13
- 16119[INFO][MainThread]地图渲染方块数目：221
- 16148[INFO][MainThread]地图渲染区域大小：850x650
- 16149[INFO][MainThread]地图渲染方块区域：17x13
- 16150[INFO][MainThread]地图渲染方块数目：221
- 16177[INFO][MainThread]地图渲染区域大小：850x650
- 16178[INFO][MainThread]地图渲染方块区域：17x13
- 16178[INFO][MainThread]地图渲染方块数目：221
- 16207[INFO][MainThread]地图渲染区域大小：850x650
- 16208[INFO][MainThread]地图渲染方块区域：17x13
- 16209[INFO][MainThread]地图渲染方块数目：221
- 16236[INFO][MainThread]地图渲染区域大小：850x650
- 16237[INFO][MainThread]地图渲染方块区域：17x13
- 16238[INFO][MainThread]地图渲染方块数目：221
- 16267[INFO][MainThread]地图渲染区域大小：850x650
- 16268[INFO][MainThread]地图渲染方块区域：17x13
- 16268[INFO][MainThread]地图渲染方块数目：221
- 16295[INFO][MainThread]地图渲染区域大小：850x650
- 16296[INFO][MainThread]地图渲染方块区域：17x13
- 16296[INFO][MainThread]地图渲染方块数目：221
- 16325[INFO][MainThread]地图渲染区域大小：850x650
- 16329[INFO][MainThread]地图渲染方块区域：17x13
- 16330[INFO][MainThread]地图渲染方块数目：221
- 16385[INFO][MainThread]地图渲染区域大小：850x650
- 16387[INFO][MainThread]地图渲染方块区域：17x13
- 16387[INFO][MainThread]地图渲染方块数目：221
- 16419[INFO][MainThread]地图渲染区域大小：850x650
- 16420[INFO][MainThread]地图渲染方块区域：17x13
- 16420[INFO][MainThread]地图渲染方块数目：221
- 16453[INFO][MainThread]地图渲染区域大小：850x650
- 16455[INFO][MainThread]地图渲染方块区域：17x13
- 16455[INFO][MainThread]地图渲染方块数目：221
- 16487[INFO][MainThread]地图渲染区域大小：850x650
- 16488[INFO][MainThread]地图渲染方块区域：17x13
- 16488[INFO][MainThread]地图渲染方块数目：221
- 16520[INFO][MainThread]地图渲染区域大小：850x650
- 16524[INFO][MainThread]地图渲染方块区域：17x13
- 16525[INFO][MainThread]地图渲染方块数目：221
- 16575[INFO][MainThread]地图渲染区域大小：850x650
- 16577[INFO][MainThread]地图渲染方块区域：17x13
- 16577[INFO][MainThread]地图渲染方块数目：221
- 16608[INFO][MainThread]地图渲染区域大小：850x650
- 16609[INFO][MainThread]地图渲染方块区域：17x13
- 16609[INFO][MainThread]地图渲染方块数目：221
- 16642[INFO][MainThread]地图渲染区域大小：850x650
- 16644[INFO][MainThread]地图渲染方块区域：17x13
- 16644[INFO][MainThread]地图渲染方块数目：221
- 16682[INFO][MainThread]地图渲染区域大小：850x650
- 16683[INFO][MainThread]地图渲染方块区域：17x13
- 16684[INFO][MainThread]地图渲染方块数目：221
- 16718[DEBU][MainThread]ACTIVEEVENT 1
- 16718[INFO][MainThread]地图渲染区域大小：850x650
- 16719[INFO][MainThread]地图渲染方块区域：17x13
- 16720[INFO][MainThread]地图渲染方块数目：221
- 16751[INFO][MainThread]地图渲染区域大小：850x650
- 16752[INFO][MainThread]地图渲染方块区域：17x13
- 16752[INFO][MainThread]地图渲染方块数目：221
- 16782[INFO][MainThread]地图渲染区域大小：850x650
- 16783[INFO][MainThread]地图渲染方块区域：17x13
- 16783[INFO][MainThread]地图渲染方块数目：221
- 16814[INFO][MainThread]地图渲染区域大小：850x650
- 16815[INFO][MainThread]地图渲染方块区域：17x13
- 16816[INFO][MainThread]地图渲染方块数目：221
- 16846[INFO][MainThread]地图渲染区域大小：850x650
- 16847[INFO][MainThread]地图渲染方块区域：17x13
- 16847[INFO][MainThread]地图渲染方块数目：221
- 16875[INFO][MainThread]地图渲染区域大小：850x650
- 16876[INFO][MainThread]地图渲染方块区域：17x13
- 16877[INFO][MainThread]地图渲染方块数目：221
- 16905[INFO][MainThread]地图渲染区域大小：850x650
- 16906[INFO][MainThread]地图渲染方块区域：17x13
- 16906[INFO][MainThread]地图渲染方块数目：221
- 16936[INFO][MainThread]地图渲染区域大小：850x650
- 16937[INFO][MainThread]地图渲染方块区域：17x13
- 16938[INFO][MainThread]地图渲染方块数目：221
- 16968[INFO][MainThread]地图渲染区域大小：850x650
- 16969[INFO][MainThread]地图渲染方块区域：17x13
- 16969[INFO][MainThread]地图渲染方块数目：221
- 16998[INFO][MainThread]地图渲染区域大小：850x650
- 17001[INFO][MainThread]地图渲染方块区域：17x13
- 17001[INFO][MainThread]地图渲染方块数目：221
- 17049[DEBU][MainThread]ACTIVEEVENT 1
- 17050[DEBU][MainThread]MOUSEMOTION (45, 126)
- 17050[DEBU][MainThread]SWMOUSEMOTION (0, 0)
- 17050[INFO][MainThread]地图渲染区域大小：850x650
- 17051[INFO][MainThread]地图渲染方块区域：17x13
- 17051[INFO][MainThread]地图渲染方块数目：221
- 17080[DEBU][MainThread]MOUSEMOTION (489, 353)
- 17081[DEBU][MainThread]SWMOUSEMOTION (89, 53)
- 17081[INFO][MainThread]地图渲染区域大小：850x650
- 17082[INFO][MainThread]地图渲染方块区域：17x13
- 17082[INFO][MainThread]地图渲染方块数目：221
- 17110[DEBU][MainThread]MOUSEMOTION (567, 384)
- 17111[DEBU][MainThread]SWMOUSEMOTION (256, 137)
- 17111[INFO][MainThread]地图渲染区域大小：850x650
- 17112[INFO][MainThread]地图渲染方块区域：17x13
- 17112[INFO][MainThread]地图渲染方块数目：221
- 17139[DEBU][MainThread]MOUSEMOTION (545, 385)
- 17140[DEBU][MainThread]SWMOUSEMOTION (401, 222)
- 17140[INFO][MainThread]地图渲染区域大小：850x650
- 17141[INFO][MainThread]地图渲染方块区域：17x13
- 17141[INFO][MainThread]地图渲染方块数目：221
- 17169[DEBU][MainThread]MOUSEMOTION (457, 335)
- 17169[DEBU][MainThread]SWMOUSEMOTION (458, 257)
- 17169[INFO][MainThread]地图渲染区域大小：850x650
- 17170[INFO][MainThread]地图渲染方块区域：17x13
- 17170[INFO][MainThread]地图渲染方块数目：221
- 17199[DEBU][MainThread]MOUSEMOTION (421, 317)
- 17199[DEBU][MainThread]SWMOUSEMOTION (479, 274)
- 17199[INFO][MainThread]地图渲染区域大小：850x650
- 17200[INFO][MainThread]地图渲染方块区域：17x13
- 17201[INFO][MainThread]地图渲染方块数目：221
- 17229[DEBU][MainThread]MOUSEMOTION (407, 308)
- 17230[DEBU][MainThread]SWMOUSEMOTION (486, 282)
- 17230[INFO][MainThread]地图渲染区域大小：850x650
- 17231[INFO][MainThread]地图渲染方块区域：17x13
- 17231[INFO][MainThread]地图渲染方块数目：221
- 17261[DEBU][MainThread]MOUSEMOTION (416, 315)
- 17262[DEBU][MainThread]SWMOUSEMOTION (502, 297)
- 17262[INFO][MainThread]地图渲染区域大小：850x650
- 17263[INFO][MainThread]地图渲染方块区域：17x13
- 17264[INFO][MainThread]地图渲染方块数目：221
- 17297[DEBU][MainThread]MOUSEMOTION (409, 307)
- 17297[DEBU][MainThread]SWMOUSEMOTION (511, 304)
- 17298[INFO][MainThread]地图渲染区域大小：850x650
- 17299[INFO][MainThread]地图渲染方块区域：17x13
- 17299[INFO][MainThread]地图渲染方块数目：221
- 17329[DEBU][MainThread]MOUSEMOTION (403, 302)
- 17329[DEBU][MainThread]SWMOUSEMOTION (514, 306)
- 17329[INFO][MainThread]地图渲染区域大小：850x650
- 17330[INFO][MainThread]地图渲染方块区域：17x13
- 17330[INFO][MainThread]地图渲染方块数目：221
- 17358[DEBU][MainThread]MOUSEMOTION (407, 308)
- 17358[DEBU][MainThread]SWMOUSEMOTION (521, 314)
- 17359[INFO][MainThread]地图渲染区域大小：850x650
- 17359[INFO][MainThread]地图渲染方块区域：17x13
- 17360[INFO][MainThread]地图渲染方块数目：221
- 17387[DEBU][MainThread]MOUSEMOTION (422, 326)
- 17388[DEBU][MainThread]SWMOUSEMOTION (543, 340)
- 17388[INFO][MainThread]地图渲染区域大小：850x650
- 17389[INFO][MainThread]地图渲染方块区域：17x13
- 17389[INFO][MainThread]地图渲染方块数目：221
- 17416[DEBU][MainThread]MOUSEMOTION (424, 318)
- 17417[DEBU][MainThread]SWMOUSEMOTION (567, 358)
- 17417[INFO][MainThread]地图渲染区域大小：850x650
- 17418[INFO][MainThread]地图渲染方块区域：17x13
- 17418[INFO][MainThread]地图渲染方块数目：221
- 17446[DEBU][MainThread]MOUSEMOTION (434, 321)
- 17446[DEBU][MainThread]SWMOUSEMOTION (601, 379)
- 17446[INFO][MainThread]地图渲染区域大小：850x650
- 17447[INFO][MainThread]地图渲染方块区域：17x13
- 17447[INFO][MainThread]地图渲染方块数目：221
- 17476[DEBU][MainThread]MOUSEMOTION (432, 335)
- 17476[DEBU][MainThread]SWMOUSEMOTION (633, 414)
- 17476[INFO][MainThread]地图渲染区域大小：850x650
- 17477[INFO][MainThread]地图渲染方块区域：17x13
- 17477[INFO][MainThread]地图渲染方块数目：221
- 17506[DEBU][MainThread]MOUSEMOTION (493, 390)
- 17506[DEBU][MainThread]SWMOUSEMOTION (726, 504)
- 17506[INFO][MainThread]地图渲染区域大小：850x650
- 17507[INFO][MainThread]地图渲染方块区域：17x13
- 17507[INFO][MainThread]地图渲染方块数目：221
- 17535[DEBU][MainThread]MOUSEMOTION (521, 371)
- 17536[DEBU][MainThread]SWMOUSEMOTION (800, 575)
- 17536[INFO][MainThread]地图渲染区域大小：850x650
- 17537[INFO][MainThread]地图渲染方块区域：17x13
- 17537[INFO][MainThread]地图渲染方块数目：221
- 17566[DEBU][MainThread]MOUSEMOTION (569, 399)
- 17566[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17566[INFO][MainThread]地图渲染区域大小：850x650
- 17567[INFO][MainThread]地图渲染方块区域：17x13
- 17568[INFO][MainThread]地图渲染方块数目：221
- 17596[DEBU][MainThread]MOUSEMOTION (574, 402)
- 17596[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17596[INFO][MainThread]地图渲染区域大小：850x650
- 17597[INFO][MainThread]地图渲染方块区域：17x13
- 17598[INFO][MainThread]地图渲染方块数目：221
- 17625[DEBU][MainThread]MOUSEMOTION (550, 387)
- 17626[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17626[INFO][MainThread]地图渲染区域大小：850x650
- 17627[INFO][MainThread]地图渲染方块区域：17x13
- 17627[INFO][MainThread]地图渲染方块数目：221
- 17655[DEBU][MainThread]MOUSEMOTION (458, 333)
- 17656[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17656[INFO][MainThread]地图渲染区域大小：850x650
- 17657[INFO][MainThread]地图渲染方块区域：17x13
- 17657[INFO][MainThread]地图渲染方块数目：221
- 17684[DEBU][MainThread]MOUSEMOTION (444, 329)
- 17685[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17685[INFO][MainThread]地图渲染区域大小：850x650
- 17686[INFO][MainThread]地图渲染方块区域：17x13
- 17686[INFO][MainThread]地图渲染方块数目：221
- 17714[DEBU][MainThread]MOUSEMOTION (425, 318)
- 17714[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17714[INFO][MainThread]地图渲染区域大小：850x650
- 17715[INFO][MainThread]地图渲染方块区域：17x13
- 17715[INFO][MainThread]地图渲染方块数目：221
- 17743[DEBU][MainThread]MOUSEMOTION (412, 306)
- 17744[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17744[INFO][MainThread]地图渲染区域大小：850x650
- 17745[INFO][MainThread]地图渲染方块区域：17x13
- 17745[INFO][MainThread]地图渲染方块数目：221
- 17773[DEBU][MainThread]MOUSEMOTION (411, 306)
- 17773[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17773[INFO][MainThread]地图渲染区域大小：850x650
- 17774[INFO][MainThread]地图渲染方块区域：17x13
- 17774[INFO][MainThread]地图渲染方块数目：221
- 17802[DEBU][MainThread]MOUSEMOTION (412, 309)
- 17803[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17803[INFO][MainThread]地图渲染区域大小：850x650
- 17804[INFO][MainThread]地图渲染方块区域：17x13
- 17804[INFO][MainThread]地图渲染方块数目：221
- 17832[DEBU][MainThread]MOUSEMOTION (412, 307)
- 17832[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17833[INFO][MainThread]地图渲染区域大小：850x650
- 17834[INFO][MainThread]地图渲染方块区域：17x13
- 17834[INFO][MainThread]地图渲染方块数目：221
- 17863[DEBU][MainThread]MOUSEMOTION (409, 304)
- 17863[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17863[INFO][MainThread]地图渲染区域大小：850x650
- 17864[INFO][MainThread]地图渲染方块区域：17x13
- 17864[INFO][MainThread]地图渲染方块数目：221
- 17898[DEBU][MainThread]MOUSEMOTION (404, 302)
- 17899[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17900[INFO][MainThread]地图渲染区域大小：850x650
- 17902[INFO][MainThread]地图渲染方块区域：17x13
- 17903[INFO][MainThread]地图渲染方块数目：221
- 17945[DEBU][MainThread]MOUSEMOTION (405, 304)
- 17945[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17946[INFO][MainThread]地图渲染区域大小：850x650
- 17947[INFO][MainThread]地图渲染方块区域：17x13
- 17947[INFO][MainThread]地图渲染方块数目：221
- 17976[DEBU][MainThread]MOUSEMOTION (404, 302)
- 17976[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 17976[INFO][MainThread]地图渲染区域大小：850x650
- 17977[INFO][MainThread]地图渲染方块区域：17x13
- 17977[INFO][MainThread]地图渲染方块数目：221
- 18006[DEBU][MainThread]MOUSEMOTION (402, 302)
- 18006[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18006[INFO][MainThread]地图渲染区域大小：850x650
- 18007[INFO][MainThread]地图渲染方块区域：17x13
- 18007[INFO][MainThread]地图渲染方块数目：221
- 18035[DEBU][MainThread]MOUSEMOTION (403, 303)
- 18035[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18036[INFO][MainThread]地图渲染区域大小：850x650
- 18037[INFO][MainThread]地图渲染方块区域：17x13
- 18037[INFO][MainThread]地图渲染方块数目：221
- 18065[DEBU][MainThread]MOUSEMOTION (402, 301)
- 18065[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18065[INFO][MainThread]地图渲染区域大小：850x650
- 18067[INFO][MainThread]地图渲染方块区域：17x13
- 18067[INFO][MainThread]地图渲染方块数目：221
- 18095[DEBU][MainThread]MOUSEMOTION (401, 301)
- 18095[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18095[INFO][MainThread]地图渲染区域大小：850x650
- 18096[INFO][MainThread]地图渲染方块区域：17x13
- 18096[INFO][MainThread]地图渲染方块数目：221
- 18125[DEBU][MainThread]MOUSEMOTION (402, 302)
- 18125[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18125[INFO][MainThread]地图渲染区域大小：850x650
- 18126[INFO][MainThread]地图渲染方块区域：17x13
- 18126[INFO][MainThread]地图渲染方块数目：221
- 18154[DEBU][MainThread]MOUSEMOTION (403, 303)
- 18154[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18154[INFO][MainThread]地图渲染区域大小：850x650
- 18155[INFO][MainThread]地图渲染方块区域：17x13
- 18156[INFO][MainThread]地图渲染方块数目：221
- 18183[DEBU][MainThread]MOUSEMOTION (404, 303)
- 18184[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18184[INFO][MainThread]地图渲染区域大小：850x650
- 18185[INFO][MainThread]地图渲染方块区域：17x13
- 18185[INFO][MainThread]地图渲染方块数目：221
- 18214[DEBU][MainThread]MOUSEMOTION (402, 302)
- 18214[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18214[INFO][MainThread]地图渲染区域大小：850x650
- 18215[INFO][MainThread]地图渲染方块区域：17x13
- 18216[INFO][MainThread]地图渲染方块数目：221
- 18244[DEBU][MainThread]MOUSEMOTION (402, 301)
- 18245[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18245[INFO][MainThread]地图渲染区域大小：850x650
- 18246[INFO][MainThread]地图渲染方块区域：17x13
- 18246[INFO][MainThread]地图渲染方块数目：221
- 18275[DEBU][MainThread]MOUSEMOTION (400, 301)
- 18275[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18275[INFO][MainThread]地图渲染区域大小：850x650
- 18276[INFO][MainThread]地图渲染方块区域：17x13
- 18277[INFO][MainThread]地图渲染方块数目：221
- 18305[DEBU][MainThread]MOUSEMOTION (401, 301)
- 18305[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18305[INFO][MainThread]地图渲染区域大小：850x650
- 18306[INFO][MainThread]地图渲染方块区域：17x13
- 18307[INFO][MainThread]地图渲染方块数目：221
- 18335[DEBU][MainThread]MOUSEMOTION (402, 301)
- 18335[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18336[INFO][MainThread]地图渲染区域大小：850x650
- 18339[INFO][MainThread]地图渲染方块区域：17x13
- 18340[INFO][MainThread]地图渲染方块数目：221
- 18394[INFO][MainThread]地图渲染区域大小：850x650
- 18396[INFO][MainThread]地图渲染方块区域：17x13
- 18396[INFO][MainThread]地图渲染方块数目：221
- 18429[DEBU][MainThread]MOUSEMOTION (403, 301)
- 18429[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18430[INFO][MainThread]地图渲染区域大小：850x650
- 18433[INFO][MainThread]地图渲染方块区域：17x13
- 18434[INFO][MainThread]地图渲染方块数目：221
- 18479[DEBU][MainThread]MOUSEMOTION (401, 301)
- 18480[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18480[INFO][MainThread]地图渲染区域大小：850x650
- 18482[INFO][MainThread]地图渲染方块区域：17x13
- 18482[INFO][MainThread]地图渲染方块数目：221
- 18516[INFO][MainThread]地图渲染区域大小：850x650
- 18517[INFO][MainThread]地图渲染方块区域：17x13
- 18518[INFO][MainThread]地图渲染方块数目：221
- 18546[DEBU][MainThread]MOUSEMOTION (402, 302)
- 18547[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18547[INFO][MainThread]地图渲染区域大小：850x650
- 18548[INFO][MainThread]地图渲染方块区域：17x13
- 18548[INFO][MainThread]地图渲染方块数目：221
- 18576[DEBU][MainThread]MOUSEMOTION (401, 301)
- 18576[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 18576[INFO][MainThread]地图渲染区域大小：850x650
- 18577[INFO][MainThread]地图渲染方块区域：17x13
- 18578[INFO][MainThread]地图渲染方块数目：221
- 18606[INFO][MainThread]地图渲染区域大小：850x650
- 18607[INFO][MainThread]地图渲染方块区域：17x13
- 18607[INFO][MainThread]地图渲染方块数目：221
- 18634[INFO][MainThread]地图渲染区域大小：850x650
- 18635[INFO][MainThread]地图渲染方块区域：17x13
- 18636[INFO][MainThread]地图渲染方块数目：221
- 18664[INFO][MainThread]地图渲染区域大小：850x650
- 18665[INFO][MainThread]地图渲染方块区域：17x13
- 18665[INFO][MainThread]地图渲染方块数目：221
- 18693[INFO][MainThread]地图渲染区域大小：850x650
- 18694[INFO][MainThread]地图渲染方块区域：17x13
- 18695[INFO][MainThread]地图渲染方块数目：221
- 18723[INFO][MainThread]地图渲染区域大小：850x650
- 18724[INFO][MainThread]地图渲染方块区域：17x13
- 18724[INFO][MainThread]地图渲染方块数目：221
- 18751[INFO][MainThread]地图渲染区域大小：850x650
- 18752[INFO][MainThread]地图渲染方块区域：17x13
- 18753[INFO][MainThread]地图渲染方块数目：221
- 18780[INFO][MainThread]地图渲染区域大小：850x650
- 18781[INFO][MainThread]地图渲染方块区域：17x13
- 18782[INFO][MainThread]地图渲染方块数目：221
- 18809[INFO][MainThread]地图渲染区域大小：850x650
- 18810[INFO][MainThread]地图渲染方块区域：17x13
- 18811[INFO][MainThread]地图渲染方块数目：221
- 18839[INFO][MainThread]地图渲染区域大小：850x650
- 18842[INFO][MainThread]地图渲染方块区域：17x13
- 18843[INFO][MainThread]地图渲染方块数目：221
- 18885[INFO][MainThread]地图渲染区域大小：850x650
- 18887[INFO][MainThread]地图渲染方块区域：17x13
- 18887[INFO][MainThread]地图渲染方块数目：221
- 18922[INFO][MainThread]地图渲染区域大小：850x650
- 18923[INFO][MainThread]地图渲染方块区域：17x13
- 18924[INFO][MainThread]地图渲染方块数目：221
- 18953[INFO][MainThread]地图渲染区域大小：850x650
- 18954[INFO][MainThread]地图渲染方块区域：17x13
- 18955[INFO][MainThread]地图渲染方块数目：221
- 18985[INFO][MainThread]地图渲染区域大小：850x650
- 18986[INFO][MainThread]地图渲染方块区域：17x13
- 18986[INFO][MainThread]地图渲染方块数目：221
- 19016[INFO][MainThread]地图渲染区域大小：850x650
- 19017[INFO][MainThread]地图渲染方块区域：17x13
- 19017[INFO][MainThread]地图渲染方块数目：221
- 19047[INFO][MainThread]地图渲染区域大小：850x650
- 19048[INFO][MainThread]地图渲染方块区域：17x13
- 19048[INFO][MainThread]地图渲染方块数目：221
- 19078[INFO][MainThread]地图渲染区域大小：850x650
- 19079[INFO][MainThread]地图渲染方块区域：17x13
- 19080[INFO][MainThread]地图渲染方块数目：221
- 19109[INFO][MainThread]地图渲染区域大小：850x650
- 19110[INFO][MainThread]地图渲染方块区域：17x13
- 19111[INFO][MainThread]地图渲染方块数目：221
- 19141[INFO][MainThread]地图渲染区域大小：850x650
- 19142[INFO][MainThread]地图渲染方块区域：17x13
- 19142[INFO][MainThread]地图渲染方块数目：221
- 19173[INFO][MainThread]地图渲染区域大小：850x650
- 19176[INFO][MainThread]地图渲染方块区域：17x13
- 19177[INFO][MainThread]地图渲染方块数目：221
- 19222[INFO][MainThread]地图渲染区域大小：850x650
- 19224[INFO][MainThread]地图渲染方块区域：17x13
- 19224[INFO][MainThread]地图渲染方块数目：221
- 19263[INFO][MainThread]地图渲染区域大小：850x650
- 19264[INFO][MainThread]地图渲染方块区域：17x13
- 19264[INFO][MainThread]地图渲染方块数目：221
- 19294[INFO][MainThread]地图渲染区域大小：850x650
- 19295[INFO][MainThread]地图渲染方块区域：17x13
- 19296[INFO][MainThread]地图渲染方块数目：221
- 19326[INFO][MainThread]地图渲染区域大小：850x650
- 19327[INFO][MainThread]地图渲染方块区域：17x13
- 19327[INFO][MainThread]地图渲染方块数目：221
- 19357[INFO][MainThread]地图渲染区域大小：850x650
- 19358[INFO][MainThread]地图渲染方块区域：17x13
- 19358[INFO][MainThread]地图渲染方块数目：221
- 19388[INFO][MainThread]地图渲染区域大小：850x650
- 19389[INFO][MainThread]地图渲染方块区域：17x13
- 19390[INFO][MainThread]地图渲染方块数目：221
- 19419[INFO][MainThread]地图渲染区域大小：850x650
- 19420[INFO][MainThread]地图渲染方块区域：17x13
- 19421[INFO][MainThread]地图渲染方块数目：221
- 19451[INFO][MainThread]地图渲染区域大小：850x650
- 19452[INFO][MainThread]地图渲染方块区域：17x13
- 19452[INFO][MainThread]地图渲染方块数目：221
- 19482[INFO][MainThread]地图渲染区域大小：850x650
- 19484[INFO][MainThread]地图渲染方块区域：17x13
- 19484[INFO][MainThread]地图渲染方块数目：221
- 19513[INFO][MainThread]地图渲染区域大小：850x650
- 19515[INFO][MainThread]地图渲染方块区域：17x13
- 19515[INFO][MainThread]地图渲染方块数目：221
- 19545[INFO][MainThread]地图渲染区域大小：850x650
- 19546[INFO][MainThread]地图渲染方块区域：17x13
- 19546[INFO][MainThread]地图渲染方块数目：221
- 19576[INFO][MainThread]地图渲染区域大小：850x650
- 19577[INFO][MainThread]地图渲染方块区域：17x13
- 19577[INFO][MainThread]地图渲染方块数目：221
- 19608[INFO][MainThread]地图渲染区域大小：850x650
- 19609[INFO][MainThread]地图渲染方块区域：17x13
- 19609[INFO][MainThread]地图渲染方块数目：221
- 19639[INFO][MainThread]地图渲染区域大小：850x650
- 19641[INFO][MainThread]地图渲染方块区域：17x13
- 19641[INFO][MainThread]地图渲染方块数目：221
- 19680[INFO][MainThread]地图渲染区域大小：850x650
- 19681[INFO][MainThread]地图渲染方块区域：17x13
- 19681[INFO][MainThread]地图渲染方块数目：221
- 19712[INFO][MainThread]地图渲染区域大小：850x650
- 19715[INFO][MainThread]地图渲染方块区域：17x13
- 19715[INFO][MainThread]地图渲染方块数目：221
- 19754[INFO][MainThread]地图渲染区域大小：850x650
- 19756[INFO][MainThread]地图渲染方块区域：17x13
- 19756[INFO][MainThread]地图渲染方块数目：221
- 19795[INFO][MainThread]地图渲染区域大小：850x650
- 19797[INFO][MainThread]地图渲染方块区域：17x13
- 19798[INFO][MainThread]地图渲染方块数目：221
- 19837[INFO][MainThread]地图渲染区域大小：850x650
- 19838[INFO][MainThread]地图渲染方块区域：17x13
- 19838[INFO][MainThread]地图渲染方块数目：221
- 19868[INFO][MainThread]地图渲染区域大小：850x650
- 19870[INFO][MainThread]地图渲染方块区域：17x13
- 19871[INFO][MainThread]地图渲染方块数目：221
- 19909[INFO][MainThread]地图渲染区域大小：850x650
- 19911[INFO][MainThread]地图渲染方块区域：17x13
- 19911[INFO][MainThread]地图渲染方块数目：221
- 19952[INFO][MainThread]地图渲染区域大小：850x650
- 19953[INFO][MainThread]地图渲染方块区域：17x13
- 19953[INFO][MainThread]地图渲染方块数目：221
- 19984[INFO][MainThread]地图渲染区域大小：850x650
- 19985[INFO][MainThread]地图渲染方块区域：17x13
- 19985[INFO][MainThread]地图渲染方块数目：221
- 20015[INFO][MainThread]地图渲染区域大小：850x650
- 20016[INFO][MainThread]地图渲染方块区域：17x13
- 20017[INFO][MainThread]地图渲染方块数目：221
- 20046[INFO][MainThread]地图渲染区域大小：850x650
- 20048[INFO][MainThread]地图渲染方块区域：17x13
- 20048[INFO][MainThread]地图渲染方块数目：221
- 20078[DEBU][MainThread]MOUSEMOTION (402, 302)
- 20078[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 20078[INFO][MainThread]地图渲染区域大小：850x650
- 20079[INFO][MainThread]地图渲染方块区域：17x13
- 20080[INFO][MainThread]地图渲染方块数目：221
- 20109[DEBU][MainThread]MOUSEMOTION (401, 300)
- 20110[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 20110[INFO][MainThread]地图渲染区域大小：850x650
- 20111[INFO][MainThread]地图渲染方块区域：17x13
- 20111[INFO][MainThread]地图渲染方块数目：221
- 20141[INFO][MainThread]地图渲染区域大小：850x650
- 20142[INFO][MainThread]地图渲染方块区域：17x13
- 20143[INFO][MainThread]地图渲染方块数目：221
- 20173[INFO][MainThread]地图渲染区域大小：850x650
- 20174[INFO][MainThread]地图渲染方块区域：17x13
- 20175[INFO][MainThread]地图渲染方块数目：221
- 20204[INFO][MainThread]地图渲染区域大小：850x650
- 20205[INFO][MainThread]地图渲染方块区域：17x13
- 20206[INFO][MainThread]地图渲染方块数目：221
- 20236[DEBU][MainThread]MOUSEMOTION (401, 301)
- 20236[DEBU][MainThread]SWMOUSEMOTION (800, 600)
- 20236[INFO][MainThread]地图渲染区域大小：850x650
- 20238[INFO][MainThread]地图渲染方块区域：17x13
- 20238[INFO][MainThread]地图渲染方块数目：221
- 20267[INFO][MainThread]地图渲染区域大小：850x650
- 20269[INFO][MainThread]地图渲染方块区域：17x13
- 20269[INFO][MainThread]地图渲染方块数目：221
- 20299[INFO][MainThread]地图渲染区域大小：850x650
- 20300[INFO][MainThread]地图渲染方块区域：17x13
- 20300[INFO][MainThread]地图渲染方块数目：221
- 20330[INFO][MainThread]地图渲染区域大小：850x650
- 20331[INFO][MainThread]地图渲染方块区域：17x13
- 20331[INFO][MainThread]地图渲染方块数目：221
- 20361[INFO][MainThread]地图渲染区域大小：850x650
- 20362[INFO][MainThread]地图渲染方块区域：17x13
- 20362[INFO][MainThread]地图渲染方块数目：221
- 20393[DEBU][MainThread]MOUSEMOTION (399, 301)
- 20393[DEBU][MainThread]SWMOUSEMOTION (799, 600)
- 20393[INFO][MainThread]地图渲染区域大小：850x650
- 20394[INFO][MainThread]地图渲染方块区域：17x13
- 20395[INFO][MainThread]地图渲染方块数目：221
- 20425[DEBU][MainThread]MOUSEMOTION (394, 300)
- 20426[DEBU][MainThread]SWMOUSEMOTION (793, 600)
- 20426[INFO][MainThread]地图渲染区域大小：850x650
- 20428[INFO][MainThread]地图渲染方块区域：17x13
- 20428[INFO][MainThread]地图渲染方块数目：221
- 20467[DEBU][MainThread]MOUSEMOTION (399, 300)
- 20467[DEBU][MainThread]SWMOUSEMOTION (792, 600)
- 20467[INFO][MainThread]地图渲染区域大小：850x650
- 20468[INFO][MainThread]地图渲染方块区域：17x13
- 20469[INFO][MainThread]地图渲染方块数目：221
- 20499[DEBU][MainThread]MOUSEMOTION (400, 300)
- 20499[DEBU][MainThread]SWMOUSEMOTION (792, 600)
- 20499[INFO][MainThread]地图渲染区域大小：850x650
- 20500[INFO][MainThread]地图渲染方块区域：17x13
- 20501[INFO][MainThread]地图渲染方块数目：221
- 20531[DEBU][MainThread]MOUSEMOTION (398, 300)
- 20531[DEBU][MainThread]SWMOUSEMOTION (790, 600)
- 20531[INFO][MainThread]地图渲染区域大小：850x650
- 20532[INFO][MainThread]地图渲染方块区域：17x13
- 20532[INFO][MainThread]地图渲染方块数目：221
- 20562[DEBU][MainThread]MOUSEMOTION (399, 302)
- 20563[DEBU][MainThread]SWMOUSEMOTION (789, 600)
- 20563[INFO][MainThread]地图渲染区域大小：850x650
- 20564[INFO][MainThread]地图渲染方块区域：17x13
- 20564[INFO][MainThread]地图渲染方块数目：221
- 20594[DEBU][MainThread]MOUSEMOTION (400, 302)
- 20594[DEBU][MainThread]SWMOUSEMOTION (789, 600)
- 20594[INFO][MainThread]地图渲染区域大小：850x650
- 20596[INFO][MainThread]地图渲染方块区域：17x13
- 20596[INFO][MainThread]地图渲染方块数目：221
- 20626[DEBU][MainThread]MOUSEMOTION (400, 300)
- 20626[DEBU][MainThread]SWMOUSEMOTION (789, 600)
- 20626[INFO][MainThread]地图渲染区域大小：850x650
- 20627[INFO][MainThread]地图渲染方块区域：17x13
- 20628[INFO][MainThread]地图渲染方块数目：221
- 20658[DEBU][MainThread]MOUSEMOTION (397, 301)
- 20658[DEBU][MainThread]SWMOUSEMOTION (786, 600)
- 20658[INFO][MainThread]地图渲染区域大小：850x650
- 20659[INFO][MainThread]地图渲染方块区域：17x13
- 20660[INFO][MainThread]地图渲染方块数目：221
- 20691[DEBU][MainThread]MOUSEMOTION (386, 300)
- 20692[DEBU][MainThread]SWMOUSEMOTION (772, 600)
- 20692[INFO][MainThread]地图渲染区域大小：850x650
- 20696[INFO][MainThread]地图渲染方块区域：17x13
- 20697[INFO][MainThread]地图渲染方块数目：221
- 20742[DEBU][MainThread]MOUSEMOTION (313, 251)
- 20743[DEBU][MainThread]SWMOUSEMOTION (685, 551)
- 20743[INFO][MainThread]地图渲染区域大小：850x650
- 20745[INFO][MainThread]地图渲染方块区域：17x13
- 20745[INFO][MainThread]地图渲染方块数目：221
- 20780[DEBU][MainThread]MOUSEMOTION (337, 262)
- 20781[DEBU][MainThread]SWMOUSEMOTION (622, 513)
- 20782[INFO][MainThread]地图渲染区域大小：850x650
- 20785[INFO][MainThread]地图渲染方块区域：17x13
- 20785[INFO][MainThread]地图渲染方块数目：221
- 20831[DEBU][MainThread]MOUSEMOTION (360, 269)
- 20831[DEBU][MainThread]SWMOUSEMOTION (582, 482)
- 20832[INFO][MainThread]地图渲染区域大小：850x650
- 20833[INFO][MainThread]地图渲染方块区域：17x13
- 20833[INFO][MainThread]地图渲染方块数目：221
- 20866[DEBU][MainThread]MOUSEMOTION (375, 275)
- 20866[DEBU][MainThread]SWMOUSEMOTION (557, 457)
- 20866[INFO][MainThread]地图渲染区域大小：850x650
- 20868[INFO][MainThread]地图渲染方块区域：17x13
- 20868[INFO][MainThread]地图渲染方块数目：221
- 20900[DEBU][MainThread]MOUSEMOTION (380, 268)
- 20901[DEBU][MainThread]SWMOUSEMOTION (537, 425)
- 20901[INFO][MainThread]地图渲染区域大小：850x650
- 20902[INFO][MainThread]地图渲染方块区域：17x13
- 20903[INFO][MainThread]地图渲染方块数目：221
- 20936[DEBU][MainThread]MOUSEMOTION (378, 259)
- 20936[DEBU][MainThread]SWMOUSEMOTION (515, 384)
- 20937[INFO][MainThread]地图渲染区域大小：850x650
- 20939[INFO][MainThread]地图渲染方块区域：17x13
- 20939[INFO][MainThread]地图渲染方块数目：221
- 20976[DEBU][MainThread]MOUSEMOTION (380, 264)
- 20976[DEBU][MainThread]SWMOUSEMOTION (495, 348)
- 20976[INFO][MainThread]地图渲染区域大小：850x650
- 20977[INFO][MainThread]地图渲染方块区域：17x13
- 20978[INFO][MainThread]地图渲染方块数目：221
- 21008[DEBU][MainThread]MOUSEMOTION (395, 281)
- 21008[DEBU][MainThread]SWMOUSEMOTION (490, 329)
- 21008[INFO][MainThread]地图渲染区域大小：850x650
- 21010[INFO][MainThread]地图渲染方块区域：17x13
- 21011[INFO][MainThread]地图渲染方块数目：221
- 21048[DEBU][MainThread]MOUSEMOTION (405, 267)
- 21049[DEBU][MainThread]SWMOUSEMOTION (495, 296)
- 21049[INFO][MainThread]地图渲染区域大小：850x650
- 21051[INFO][MainThread]地图渲染方块区域：17x13
- 21052[INFO][MainThread]地图渲染方块数目：221
- 21089[DEBU][MainThread]MOUSEMOTION (556, 214)
- 21089[DEBU][MainThread]SWMOUSEMOTION (651, 210)
- 21089[INFO][MainThread]地图渲染区域大小：850x650
- 21090[INFO][MainThread]地图渲染方块区域：17x13
- 21091[INFO][MainThread]地图渲染方块数目：221
- 21120[DEBU][MainThread]MOUSEMOTION (641, 211)
- 21121[DEBU][MainThread]SWMOUSEMOTION (800, 121)
- 21121[INFO][MainThread]地图渲染区域大小：850x650
- 21122[INFO][MainThread]地图渲染方块区域：17x13
- 21122[INFO][MainThread]地图渲染方块数目：221
- 21152[DEBU][MainThread]MOUSEMOTION (590, 242)
- 21153[DEBU][MainThread]SWMOUSEMOTION (800, 63)
- 21153[INFO][MainThread]地图渲染区域大小：850x650
- 21154[INFO][MainThread]地图渲染方块区域：17x13
- 21154[INFO][MainThread]地图渲染方块数目：221
- 21184[DEBU][MainThread]MOUSEMOTION (504, 264)
- 21184[DEBU][MainThread]SWMOUSEMOTION (800, 27)
- 21185[INFO][MainThread]地图渲染区域大小：850x650
- 21186[INFO][MainThread]地图渲染方块区域：17x13
- 21186[INFO][MainThread]地图渲染方块数目：221
- 21218[DEBU][MainThread]MOUSEMOTION (420, 291)
- 21218[DEBU][MainThread]SWMOUSEMOTION (800, 18)
- 21218[INFO][MainThread]地图渲染区域大小：850x650
- 21220[INFO][MainThread]地图渲染方块区域：17x13
- 21220[INFO][MainThread]地图渲染方块数目：221
- 21250[DEBU][MainThread]MOUSEMOTION (355, 299)
- 21250[DEBU][MainThread]SWMOUSEMOTION (755, 17)
- 21250[INFO][MainThread]地图渲染区域大小：850x650
- 21251[INFO][MainThread]地图渲染方块区域：17x13
- 21252[INFO][MainThread]地图渲染方块数目：221
- 21281[DEBU][MainThread]MOUSEMOTION (262, 310)
- 21282[DEBU][MainThread]SWMOUSEMOTION (617, 27)
- 21282[INFO][MainThread]地图渲染区域大小：850x650
- 21283[INFO][MainThread]地图渲染方块区域：17x13
- 21283[INFO][MainThread]地图渲染方块数目：221
- 21313[DEBU][MainThread]MOUSEMOTION (318, 335)
- 21313[DEBU][MainThread]SWMOUSEMOTION (535, 62)
- 21313[INFO][MainThread]地图渲染区域大小：850x650
- 21314[INFO][MainThread]地图渲染方块区域：17x13
- 21315[INFO][MainThread]地图渲染方块数目：221
- 21342[DEBU][MainThread]MOUSEMOTION (346, 328)
- 21343[DEBU][MainThread]SWMOUSEMOTION (481, 90)
- 21343[INFO][MainThread]地图渲染区域大小：850x650
- 21344[INFO][MainThread]地图渲染方块区域：17x13
- 21344[INFO][MainThread]地图渲染方块数目：221
- 21372[DEBU][MainThread]MOUSEMOTION (368, 319)
- 21372[DEBU][MainThread]SWMOUSEMOTION (449, 109)
- 21372[INFO][MainThread]地图渲染区域大小：850x650
- 21374[INFO][MainThread]地图渲染方块区域：17x13
- 21374[INFO][MainThread]地图渲染方块数目：221
- 21402[DEBU][MainThread]MOUSEMOTION (392, 305)
- 21402[DEBU][MainThread]SWMOUSEMOTION (441, 114)
- 21402[INFO][MainThread]地图渲染区域大小：850x650
- 21403[INFO][MainThread]地图渲染方块区域：17x13
- 21404[INFO][MainThread]地图渲染方块数目：221
- 21442[DEBU][MainThread]MOUSEMOTION (396, 305)
- 21443[DEBU][MainThread]SWMOUSEMOTION (437, 119)
- 21444[INFO][MainThread]地图渲染区域大小：850x650
- 21447[INFO][MainThread]地图渲染方块区域：17x13
- 21448[INFO][MainThread]地图渲染方块数目：221
- 21494[DEBU][MainThread]MOUSEMOTION (398, 302)
- 21494[DEBU][MainThread]SWMOUSEMOTION (435, 121)
- 21495[INFO][MainThread]地图渲染区域大小：850x650
- 21496[INFO][MainThread]地图渲染方块区域：17x13
- 21496[INFO][MainThread]地图渲染方块数目：221
- 21530[DEBU][MainThread]MOUSEMOTION (396, 302)
- 21530[DEBU][MainThread]SWMOUSEMOTION (431, 123)
- 21531[INFO][MainThread]地图渲染区域大小：850x650
- 21533[INFO][MainThread]地图渲染方块区域：17x13
- 21533[INFO][MainThread]地图渲染方块数目：221
- 21573[DEBU][MainThread]MOUSEMOTION (397, 302)
- 21573[DEBU][MainThread]SWMOUSEMOTION (428, 125)
- 21573[INFO][MainThread]地图渲染区域大小：850x650
- 21574[INFO][MainThread]地图渲染方块区域：17x13
- 21574[INFO][MainThread]地图渲染方块数目：221
- 21603[DEBU][MainThread]MOUSEMOTION (373, 287)
- 21604[DEBU][MainThread]SWMOUSEMOTION (401, 112)
- 21604[INFO][MainThread]地图渲染区域大小：850x650
- 21605[INFO][MainThread]地图渲染方块区域：17x13
- 21605[INFO][MainThread]地图渲染方块数目：221
- 21634[DEBU][MainThread]MOUSEMOTION (344, 205)
- 21635[DEBU][MainThread]SWMOUSEMOTION (345, 17)
- 21635[INFO][MainThread]地图渲染区域大小：850x650
- 21637[INFO][MainThread]地图渲染方块区域：17x13
- 21638[INFO][MainThread]地图渲染方块数目：221
- 21680[DEBU][MainThread]MOUSEMOTION (194, 92)
- 21680[DEBU][MainThread]SWMOUSEMOTION (139, 0)
- 21681[INFO][MainThread]地图渲染区域大小：850x650
- 21683[INFO][MainThread]地图渲染方块区域：17x13
- 21684[INFO][MainThread]地图渲染方块数目：221
- 21727[DEBU][MainThread]MOUSEMOTION (269, 232)
- 21728[DEBU][MainThread]SWMOUSEMOTION (8, 0)
- 21728[INFO][MainThread]地图渲染区域大小：850x650
- 21729[INFO][MainThread]地图渲染方块区域：17x13
- 21729[INFO][MainThread]地图渲染方块数目：221
- 21759[DEBU][MainThread]MOUSEMOTION (400, 304)
- 21760[DEBU][MainThread]SWMOUSEMOTION (8, 4)
- 21760[INFO][MainThread]地图渲染区域大小：850x650
- 21761[INFO][MainThread]地图渲染方块区域：17x13
- 21761[INFO][MainThread]地图渲染方块数目：221
- 21791[DEBU][MainThread]MOUSEMOTION (463, 363)
- 21791[DEBU][MainThread]SWMOUSEMOTION (71, 67)
- 21791[INFO][MainThread]地图渲染区域大小：850x650
- 21792[INFO][MainThread]地图渲染方块区域：17x13
- 21793[INFO][MainThread]地图渲染方块数目：221
- 21822[DEBU][MainThread]MOUSEMOTION (546, 390)
- 21823[DEBU][MainThread]SWMOUSEMOTION (217, 157)
- 21823[INFO][MainThread]地图渲染区域大小：850x650
- 21824[INFO][MainThread]地图渲染方块区域：17x13
- 21824[INFO][MainThread]地图渲染方块数目：221
- 21854[DEBU][MainThread]MOUSEMOTION (455, 352)
- 21854[DEBU][MainThread]SWMOUSEMOTION (272, 209)
- 21854[INFO][MainThread]地图渲染区域大小：850x650
- 21855[INFO][MainThread]地图渲染方块区域：17x13
- 21856[INFO][MainThread]地图渲染方块数目：221
- 21886[DEBU][MainThread]MOUSEMOTION (403, 318)
- 21887[DEBU][MainThread]SWMOUSEMOTION (275, 227)
- 21887[INFO][MainThread]地图渲染区域大小：850x650
- 21888[INFO][MainThread]地图渲染方块区域：17x13
- 21888[INFO][MainThread]地图渲染方块数目：221
- 21918[DEBU][MainThread]MOUSEMOTION (392, 323)
- 21918[DEBU][MainThread]SWMOUSEMOTION (267, 250)
- 21918[INFO][MainThread]地图渲染区域大小：850x650
- 21919[INFO][MainThread]地图渲染方块区域：17x13
- 21920[INFO][MainThread]地图渲染方块数目：221
- 21950[DEBU][MainThread]MOUSEMOTION (388, 313)
- 21950[DEBU][MainThread]SWMOUSEMOTION (255, 263)
- 21950[INFO][MainThread]地图渲染区域大小：850x650
- 21952[INFO][MainThread]地图渲染方块区域：17x13
- 21952[INFO][MainThread]地图渲染方块数目：221
- 21982[DEBU][MainThread]MOUSEMOTION (392, 308)
- 21983[DEBU][MainThread]SWMOUSEMOTION (247, 271)
- 21983[INFO][MainThread]地图渲染区域大小：850x650
- 21986[INFO][MainThread]地图渲染方块区域：17x13
- 21986[INFO][MainThread]地图渲染方块数目：221
- 22028[DEBU][MainThread]MOUSEMOTION (412, 317)
- 22029[DEBU][MainThread]SWMOUSEMOTION (259, 288)
- 22029[INFO][MainThread]地图渲染区域大小：850x650
- 22030[INFO][MainThread]地图渲染方块区域：17x13
- 22030[INFO][MainThread]地图渲染方块数目：221
- 22060[DEBU][MainThread]MOUSEMOTION (407, 302)
- 22061[DEBU][MainThread]SWMOUSEMOTION (266, 290)
- 22061[INFO][MainThread]地图渲染区域大小：850x650
- 22062[INFO][MainThread]地图渲染方块区域：17x13
- 22062[INFO][MainThread]地图渲染方块数目：221
- 22092[DEBU][MainThread]MOUSEMOTION (401, 298)
- 22092[DEBU][MainThread]SWMOUSEMOTION (267, 288)
- 22092[INFO][MainThread]地图渲染区域大小：850x650
- 22094[INFO][MainThread]地图渲染方块区域：17x13
- 22094[INFO][MainThread]地图渲染方块数目：221
- 22123[DEBU][MainThread]MOUSEMOTION (401, 300)
- 22124[DEBU][MainThread]SWMOUSEMOTION (268, 288)
- 22124[INFO][MainThread]地图渲染区域大小：850x650
- 22125[INFO][MainThread]地图渲染方块区域：17x13
- 22125[INFO][MainThread]地图渲染方块数目：221
- 22174[INFO][MainThread]地图渲染区域大小：850x650
- 22176[INFO][MainThread]地图渲染方块区域：17x13
- 22176[INFO][MainThread]地图渲染方块数目：221
- 22215[INFO][MainThread]地图渲染区域大小：850x650
- 22219[INFO][MainThread]地图渲染方块区域：17x13
- 22219[INFO][MainThread]地图渲染方块数目：221
- 22270[INFO][MainThread]地图渲染区域大小：850x650
- 22272[INFO][MainThread]地图渲染方块区域：17x13
- 22272[INFO][MainThread]地图渲染方块数目：221
- 22307[DEBU][MainThread]MOUSEMOTION (398, 298)
- 22307[DEBU][MainThread]SWMOUSEMOTION (266, 286)
- 22308[INFO][MainThread]地图渲染区域大小：850x650
- 22312[INFO][MainThread]地图渲染方块区域：17x13
- 22313[INFO][MainThread]地图渲染方块数目：221
- 22360[DEBU][MainThread]MOUSEMOTION (407, 297)
- 22360[DEBU][MainThread]SWMOUSEMOTION (273, 283)
- 22361[INFO][MainThread]地图渲染区域大小：850x650
- 22362[INFO][MainThread]地图渲染方块区域：17x13
- 22362[INFO][MainThread]地图渲染方块数目：221
- 22394[DEBU][MainThread]MOUSEMOTION (402, 300)
- 22394[DEBU][MainThread]SWMOUSEMOTION (275, 283)
- 22395[INFO][MainThread]地图渲染区域大小：850x650
- 22396[INFO][MainThread]地图渲染方块区域：17x13
- 22396[INFO][MainThread]地图渲染方块数目：221
- 22428[DEBU][MainThread]MOUSEMOTION (401, 300)
- 22428[DEBU][MainThread]SWMOUSEMOTION (276, 283)
- 22429[INFO][MainThread]地图渲染区域大小：850x650
- 22430[INFO][MainThread]地图渲染方块区域：17x13
- 22430[INFO][MainThread]地图渲染方块数目：221
- 22462[INFO][MainThread]地图渲染区域大小：850x650
- 22463[INFO][MainThread]地图渲染方块区域：17x13
- 22464[INFO][MainThread]地图渲染方块数目：221
- 22496[INFO][MainThread]地图渲染区域大小：850x650
- 22498[INFO][MainThread]地图渲染方块区域：17x13
- 22499[INFO][MainThread]地图渲染方块数目：221
- 22532[DEBU][MainThread]MOUSEMOTION (778, 269)
- 22532[DEBU][MainThread]SWMOUSEMOTION (654, 252)
- 22532[INFO][MainThread]地图渲染区域大小：850x650
- 22533[INFO][MainThread]地图渲染方块区域：17x13
- 22533[INFO][MainThread]地图渲染方块数目：221
- 22561[DEBU][MainThread]MOUSEMOTION (799, 300)
- 22561[DEBU][MainThread]SWMOUSEMOTION (800, 252)
- 22562[INFO][MainThread]地图渲染区域大小：850x650
- 22562[INFO][MainThread]地图渲染方块区域：17x13
- 22563[INFO][MainThread]地图渲染方块数目：221
- 22610[DEBU][MainThread]ACTIVEEVENT 0
- 22611[INFO][MainThread]地图渲染区域大小：850x650
- 22612[INFO][MainThread]地图渲染方块区域：17x13
- 22612[INFO][MainThread]地图渲染方块数目：221
- 22640[INFO][MainThread]地图渲染区域大小：850x650
- 22641[INFO][MainThread]地图渲染方块区域：17x13
- 22641[INFO][MainThread]地图渲染方块数目：221
- 22669[INFO][MainThread]地图渲染区域大小：850x650
- 22670[INFO][MainThread]地图渲染方块区域：17x13
- 22671[INFO][MainThread]地图渲染方块数目：221
- 22699[INFO][MainThread]地图渲染区域大小：850x650
- 22700[INFO][MainThread]地图渲染方块区域：17x13
- 22700[INFO][MainThread]地图渲染方块数目：221
- 22728[INFO][MainThread]地图渲染区域大小：850x650
- 22729[INFO][MainThread]地图渲染方块区域：17x13
- 22730[INFO][MainThread]地图渲染方块数目：221
- 22757[INFO][MainThread]地图渲染区域大小：850x650
- 22759[INFO][MainThread]地图渲染方块区域：17x13
- 22759[INFO][MainThread]地图渲染方块数目：221
- 22787[INFO][MainThread]地图渲染区域大小：850x650
- 22788[INFO][MainThread]地图渲染方块区域：17x13
- 22788[INFO][MainThread]地图渲染方块数目：221
- 22817[INFO][MainThread]地图渲染区域大小：850x650
- 22818[INFO][MainThread]地图渲染方块区域：17x13
- 22818[INFO][MainThread]地图渲染方块数目：221
- 22846[INFO][MainThread]地图渲染区域大小：850x650
- 22847[INFO][MainThread]地图渲染方块区域：17x13
- 22847[INFO][MainThread]地图渲染方块数目：221
- 22875[INFO][MainThread]地图渲染区域大小：850x650
- 22876[INFO][MainThread]地图渲染方块区域：17x13
- 22876[INFO][MainThread]地图渲染方块数目：221
- 22904[INFO][MainThread]地图渲染区域大小：850x650
- 22905[INFO][MainThread]地图渲染方块区域：17x13
- 22906[INFO][MainThread]地图渲染方块数目：221
- 22934[INFO][MainThread]地图渲染区域大小：850x650
- 22935[INFO][MainThread]地图渲染方块区域：17x13
- 22935[INFO][MainThread]地图渲染方块数目：221
- 22965[INFO][MainThread]地图渲染区域大小：850x650
- 22966[INFO][MainThread]地图渲染方块区域：17x13
- 22966[INFO][MainThread]地图渲染方块数目：221
- 22995[INFO][MainThread]地图渲染区域大小：850x650
- 22996[INFO][MainThread]地图渲染方块区域：17x13
- 22996[INFO][MainThread]地图渲染方块数目：221
- 23025[INFO][MainThread]地图渲染区域大小：850x650
- 23025[INFO][MainThread]地图渲染方块区域：17x13
- 23026[INFO][MainThread]地图渲染方块数目：221
- 23054[INFO][MainThread]地图渲染区域大小：850x650
- 23055[INFO][MainThread]地图渲染方块区域：17x13
- 23055[INFO][MainThread]地图渲染方块数目：221
- 23082[INFO][MainThread]地图渲染区域大小：850x650
- 23083[INFO][MainThread]地图渲染方块区域：17x13
- 23083[INFO][MainThread]地图渲染方块数目：221
- 23111[INFO][MainThread]地图渲染区域大小：850x650
- 23112[INFO][MainThread]地图渲染方块区域：17x13
- 23112[INFO][MainThread]地图渲染方块数目：221
- 23139[INFO][MainThread]地图渲染区域大小：850x650
- 23140[INFO][MainThread]地图渲染方块区域：17x13
- 23140[INFO][MainThread]地图渲染方块数目：221
- 23169[INFO][MainThread]地图渲染区域大小：850x650
- 23170[INFO][MainThread]地图渲染方块区域：17x13
- 23170[INFO][MainThread]地图渲染方块数目：221
- 23199[INFO][MainThread]地图渲染区域大小：850x650
- 23200[INFO][MainThread]地图渲染方块区域：17x13
- 23200[INFO][MainThread]地图渲染方块数目：221
- 23227[INFO][MainThread]地图渲染区域大小：850x650
- 23228[INFO][MainThread]地图渲染方块区域：17x13
- 23228[INFO][MainThread]地图渲染方块数目：221
- 23257[INFO][MainThread]地图渲染区域大小：850x650
- 23258[INFO][MainThread]地图渲染方块区域：17x13
- 23258[INFO][MainThread]地图渲染方块数目：221
- 23286[INFO][MainThread]地图渲染区域大小：850x650
- 23287[INFO][MainThread]地图渲染方块区域：17x13
- 23287[INFO][MainThread]地图渲染方块数目：221
- 23315[INFO][MainThread]地图渲染区域大小：850x650
- 23316[INFO][MainThread]地图渲染方块区域：17x13
- 23316[INFO][MainThread]地图渲染方块数目：221
- 23344[INFO][MainThread]地图渲染区域大小：850x650
- 23345[INFO][MainThread]地图渲染方块区域：17x13
- 23345[INFO][MainThread]地图渲染方块数目：221
- 23373[INFO][MainThread]地图渲染区域大小：850x650
- 23375[INFO][MainThread]地图渲染方块区域：17x13
- 23375[INFO][MainThread]地图渲染方块数目：221
- 23404[INFO][MainThread]地图渲染区域大小：850x650
- 23405[INFO][MainThread]地图渲染方块区域：17x13
- 23405[INFO][MainThread]地图渲染方块数目：221
- 23432[INFO][MainThread]地图渲染区域大小：850x650
- 23433[INFO][MainThread]地图渲染方块区域：17x13
- 23434[INFO][MainThread]地图渲染方块数目：221
- 23462[INFO][MainThread]地图渲染区域大小：850x650
- 23463[INFO][MainThread]地图渲染方块区域：17x13
- 23463[INFO][MainThread]地图渲染方块数目：221
- 23491[INFO][MainThread]地图渲染区域大小：850x650
- 23492[INFO][MainThread]地图渲染方块区域：17x13
- 23492[INFO][MainThread]地图渲染方块数目：221
- 23520[INFO][MainThread]地图渲染区域大小：850x650
- 23521[INFO][MainThread]地图渲染方块区域：17x13
- 23522[INFO][MainThread]地图渲染方块数目：221
- 23550[INFO][MainThread]地图渲染区域大小：850x650
- 23551[INFO][MainThread]地图渲染方块区域：17x13
- 23551[INFO][MainThread]地图渲染方块数目：221
- 23578[INFO][MainThread]地图渲染区域大小：850x650
- 23579[INFO][MainThread]地图渲染方块区域：17x13
- 23579[INFO][MainThread]地图渲染方块数目：221
- 23607[INFO][MainThread]地图渲染区域大小：850x650
- 23608[INFO][MainThread]地图渲染方块区域：17x13
- 23609[INFO][MainThread]地图渲染方块数目：221
- 23637[INFO][MainThread]地图渲染区域大小：850x650
- 23638[INFO][MainThread]地图渲染方块区域：17x13
- 23638[INFO][MainThread]地图渲染方块数目：221
- 23666[INFO][MainThread]地图渲染区域大小：850x650
- 23667[INFO][MainThread]地图渲染方块区域：17x13
- 23668[INFO][MainThread]地图渲染方块数目：221
- 23697[INFO][MainThread]地图渲染区域大小：850x650
- 23698[INFO][MainThread]地图渲染方块区域：17x13
- 23698[INFO][MainThread]地图渲染方块数目：221
- 23726[INFO][MainThread]地图渲染区域大小：850x650
- 23727[INFO][MainThread]地图渲染方块区域：17x13
- 23727[INFO][MainThread]地图渲染方块数目：221
- 23755[INFO][MainThread]地图渲染区域大小：850x650
- 23756[INFO][MainThread]地图渲染方块区域：17x13
- 23756[INFO][MainThread]地图渲染方块数目：221
- 23785[INFO][MainThread]地图渲染区域大小：850x650
- 23786[INFO][MainThread]地图渲染方块区域：17x13
- 23786[INFO][MainThread]地图渲染方块数目：221
- 23814[INFO][MainThread]地图渲染区域大小：850x650
- 23815[INFO][MainThread]地图渲染方块区域：17x13
- 23816[INFO][MainThread]地图渲染方块数目：221
- 23844[INFO][MainThread]地图渲染区域大小：850x650
- 23845[INFO][MainThread]地图渲染方块区域：17x13
- 23846[INFO][MainThread]地图渲染方块数目：221
- 23874[INFO][MainThread]地图渲染区域大小：850x650
- 23875[INFO][MainThread]地图渲染方块区域：17x13
- 23875[INFO][MainThread]地图渲染方块数目：221
- 23902[INFO][MainThread]地图渲染区域大小：850x650
- 23903[INFO][MainThread]地图渲染方块区域：17x13
- 23903[INFO][MainThread]地图渲染方块数目：221
- 23932[INFO][MainThread]地图渲染区域大小：850x650
- 23932[INFO][MainThread]地图渲染方块区域：17x13
- 23932[INFO][MainThread]地图渲染方块数目：221
- 23961[INFO][MainThread]地图渲染区域大小：850x650
- 23962[INFO][MainThread]地图渲染方块区域：17x13
- 23962[INFO][MainThread]地图渲染方块数目：221
- 23991[INFO][MainThread]地图渲染区域大小：850x650
- 23994[INFO][MainThread]地图渲染方块区域：17x13
- 23995[INFO][MainThread]地图渲染方块数目：221
- 24041[INFO][MainThread]地图渲染区域大小：850x650
- 24042[INFO][MainThread]地图渲染方块区域：17x13
- 24043[INFO][MainThread]地图渲染方块数目：221
- 24076[INFO][MainThread]地图渲染区域大小：850x650
- 24077[INFO][MainThread]地图渲染方块区域：17x13
- 24078[INFO][MainThread]地图渲染方块数目：221
- 24112[INFO][MainThread]地图渲染区域大小：850x650
- 24113[INFO][MainThread]地图渲染方块区域：17x13
- 24114[INFO][MainThread]地图渲染方块数目：221
- 24151[INFO][MainThread]地图渲染区域大小：850x650
- 24152[INFO][MainThread]地图渲染方块区域：17x13
- 24152[INFO][MainThread]地图渲染方块数目：221
- 24183[INFO][MainThread]地图渲染区域大小：850x650
- 24184[INFO][MainThread]地图渲染方块区域：17x13
- 24185[INFO][MainThread]地图渲染方块数目：221
- 24216[INFO][MainThread]地图渲染区域大小：850x650
- 24219[INFO][MainThread]地图渲染方块区域：17x13
- 24219[INFO][MainThread]地图渲染方块数目：221
- 24314[DEBU][MainThread]QUIT
- 24314[INFO][MainThread]地图渲染区域大小：850x650
- 24315[INFO][MainThread]地图渲染方块区域：17x13
- 24316[INFO][MainThread]地图渲染方块数目：221
+  9383[INFO][MainThread]地图渲染方块数目：221
+  9412[DEBU][MainThread]MOUSEMOTION (412, 381)
+  9412[DEBU][MainThread]SWMOUSEMOTION (800, 564)
+  9412[INFO][MainThread]地图渲染区域大小：850x650
+  9413[INFO][MainThread]地图渲染方块区域：17x13
+  9413[INFO][MainThread]地图渲染方块数目：221
+  9442[DEBU][MainThread]MOUSEMOTION (401, 364)
+  9442[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  9442[INFO][MainThread]地图渲染区域大小：850x650
+  9443[INFO][MainThread]地图渲染方块区域：17x13
+  9443[INFO][MainThread]地图渲染方块数目：221
+  9470[DEBU][MainThread]MOUSEMOTION (402, 338)
+  9470[DEBU][MainThread]SWMOUSEMOTION (800, 600)
+  9470[INFO][MainThread]地图渲染区域大小：850x650
+  9472[INFO][MainThread]地图渲染方块区域：17x13
+  9472[INFO][MainThread]地图渲染方块数目：221
+  9500[DEBU][MainThread]MOUSEMOTION (390, 341)
+  9500[DEBU][MainThread]SWMOUSEMOTION (790, 600)
+  9500[INFO][MainThread]地图渲染区域大小：850x650
+  9501[INFO][MainThread]地图渲染方块区域：17x13
+  9501[INFO][MainThread]地图渲染方块数目：221
+  9530[DEBU][MainThread]MOUSEMOTION (377, 331)
+  9530[DEBU][MainThread]SWMOUSEMOTION (767, 600)
+  9530[INFO][MainThread]地图渲染区域大小：850x650
+  9531[INFO][MainThread]地图渲染方块区域：17x13
+  9531[INFO][MainThread]地图渲染方块数目：221
+  9558[DEBU][MainThread]MOUSEMOTION (373, 319)
+  9558[DEBU][MainThread]SWMOUSEMOTION (740, 600)
+  9558[INFO][MainThread]地图渲染区域大小：850x650
+  9559[INFO][MainThread]地图渲染方块区域：17x13
+  9559[INFO][MainThread]地图渲染方块数目：221
+  9587[DEBU][MainThread]MOUSEMOTION (373, 321)
+  9587[DEBU][MainThread]SWMOUSEMOTION (713, 600)
+  9587[INFO][MainThread]地图渲染区域大小：850x650
+  9588[INFO][MainThread]地图渲染方块区域：17x13
+  9588[INFO][MainThread]地图渲染方块数目：221
+  9615[DEBU][MainThread]MOUSEMOTION (370, 311)
+  9615[DEBU][MainThread]SWMOUSEMOTION (683, 600)
+  9615[INFO][MainThread]地图渲染区域大小：850x650
+  9616[INFO][MainThread]地图渲染方块区域：17x13
+  9616[INFO][MainThread]地图渲染方块数目：221
+  9644[DEBU][MainThread]MOUSEMOTION (356, 315)
+  9644[DEBU][MainThread]SWMOUSEMOTION (639, 600)
+  9644[INFO][MainThread]地图渲染区域大小：850x650
+  9645[INFO][MainThread]地图渲染方块区域：17x13
+  9645[INFO][MainThread]地图渲染方块数目：221
+  9672[DEBU][MainThread]MOUSEMOTION (333, 304)
+  9672[DEBU][MainThread]SWMOUSEMOTION (572, 600)
+  9672[INFO][MainThread]地图渲染区域大小：850x650
+  9673[INFO][MainThread]地图渲染方块区域：17x13
+  9673[INFO][MainThread]地图渲染方块数目：221
+  9700[DEBU][MainThread]MOUSEMOTION (321, 300)
+  9700[DEBU][MainThread]SWMOUSEMOTION (493, 600)
+  9700[INFO][MainThread]地图渲染区域大小：850x650
+  9702[INFO][MainThread]地图渲染方块区域：17x13
+  9702[INFO][MainThread]地图渲染方块数目：221
+  9731[DEBU][MainThread]MOUSEMOTION (238, 289)
+  9731[DEBU][MainThread]SWMOUSEMOTION (331, 589)
+  9731[INFO][MainThread]地图渲染区域大小：850x650
+  9732[INFO][MainThread]地图渲染方块区域：17x13
+  9732[INFO][MainThread]地图渲染方块数目：221
+  9761[DEBU][MainThread]MOUSEMOTION (224, 276)
+  9761[DEBU][MainThread]SWMOUSEMOTION (155, 565)
+  9761[INFO][MainThread]地图渲染区域大小：850x650
+  9762[INFO][MainThread]地图渲染方块区域：17x13
+  9762[INFO][MainThread]地图渲染方块数目：221
+  9790[DEBU][MainThread]MOUSEMOTION (338, 290)
+  9790[DEBU][MainThread]SWMOUSEMOTION (93, 555)
+  9790[INFO][MainThread]地图渲染区域大小：850x650
+  9791[INFO][MainThread]地图渲染方块区域：17x13
+  9791[INFO][MainThread]地图渲染方块数目：221
+  9818[DEBU][MainThread]MOUSEMOTION (354, 293)
+  9818[DEBU][MainThread]SWMOUSEMOTION (47, 548)
+  9818[INFO][MainThread]地图渲染区域大小：850x650
+  9820[INFO][MainThread]地图渲染方块区域：17x13
+  9820[INFO][MainThread]地图渲染方块数目：221
+  9847[DEBU][MainThread]MOUSEMOTION (365, 294)
+  9847[DEBU][MainThread]SWMOUSEMOTION (12, 542)
+  9847[INFO][MainThread]地图渲染区域大小：850x650
+  9848[INFO][MainThread]地图渲染方块区域：17x13
+  9848[INFO][MainThread]地图渲染方块数目：221
+  9876[DEBU][MainThread]MOUSEMOTION (307, 279)
+  9876[DEBU][MainThread]SWMOUSEMOTION (0, 521)
+  9876[INFO][MainThread]地图渲染区域大小：850x650
+  9877[INFO][MainThread]地图渲染方块区域：17x13
+  9877[INFO][MainThread]地图渲染方块数目：221
+  9904[DEBU][MainThread]MOUSEMOTION (278, 264)
+  9904[DEBU][MainThread]SWMOUSEMOTION (0, 485)
+  9905[INFO][MainThread]地图渲染区域大小：850x650
+  9905[INFO][MainThread]地图渲染方块区域：17x13
+  9905[INFO][MainThread]地图渲染方块数目：221
+  9933[DEBU][MainThread]MOUSEMOTION (323, 270)
+  9933[DEBU][MainThread]SWMOUSEMOTION (0, 455)
+  9933[INFO][MainThread]地图渲染区域大小：850x650
+  9935[INFO][MainThread]地图渲染方块区域：17x13
+  9935[INFO][MainThread]地图渲染方块数目：221
+  9963[DEBU][MainThread]MOUSEMOTION (332, 257)
+  9963[DEBU][MainThread]SWMOUSEMOTION (0, 412)
+  9963[INFO][MainThread]地图渲染区域大小：850x650
+  9964[INFO][MainThread]地图渲染方块区域：17x13
+  9964[INFO][MainThread]地图渲染方块数目：221
+  9992[DEBU][MainThread]MOUSEMOTION (351, 250)
+  9992[DEBU][MainThread]SWMOUSEMOTION (0, 362)
+  9992[INFO][MainThread]地图渲染区域大小：850x650
+  9993[INFO][MainThread]地图渲染方块区域：17x13
+  9993[INFO][MainThread]地图渲染方块数目：221
+ 10020[DEBU][MainThread]MOUSEMOTION (363, 257)
+ 10020[DEBU][MainThread]SWMOUSEMOTION (0, 319)
+ 10020[INFO][MainThread]地图渲染区域大小：850x650
+ 10021[INFO][MainThread]地图渲染方块区域：17x13
+ 10021[INFO][MainThread]地图渲染方块数目：221
+ 10048[DEBU][MainThread]MOUSEMOTION (354, 233)
+ 10048[DEBU][MainThread]SWMOUSEMOTION (0, 252)
+ 10048[INFO][MainThread]地图渲染区域大小：850x650
+ 10049[INFO][MainThread]地图渲染方块区域：17x13
+ 10049[INFO][MainThread]地图渲染方块数目：221
+ 10077[DEBU][MainThread]MOUSEMOTION (379, 251)
+ 10077[DEBU][MainThread]SWMOUSEMOTION (0, 203)
+ 10077[INFO][MainThread]地图渲染区域大小：850x650
+ 10078[INFO][MainThread]地图渲染方块区域：17x13
+ 10078[INFO][MainThread]地图渲染方块数目：221
+ 10106[DEBU][MainThread]MOUSEMOTION (389, 249)
+ 10106[DEBU][MainThread]SWMOUSEMOTION (0, 152)
+ 10106[INFO][MainThread]地图渲染区域大小：850x650
+ 10107[INFO][MainThread]地图渲染方块区域：17x13
+ 10107[INFO][MainThread]地图渲染方块数目：221
+ 10134[DEBU][MainThread]MOUSEMOTION (396, 266)
+ 10134[DEBU][MainThread]SWMOUSEMOTION (0, 118)
+ 10134[INFO][MainThread]地图渲染区域大小：850x650
+ 10135[INFO][MainThread]地图渲染方块区域：17x13
+ 10135[INFO][MainThread]地图渲染方块数目：221
+ 10164[DEBU][MainThread]MOUSEMOTION (400, 259)
+ 10164[DEBU][MainThread]SWMOUSEMOTION (0, 77)
+ 10164[INFO][MainThread]地图渲染区域大小：850x650
+ 10165[INFO][MainThread]地图渲染方块区域：17x13
+ 10165[INFO][MainThread]地图渲染方块数目：221
+ 10193[DEBU][MainThread]MOUSEMOTION (417, 253)
+ 10193[DEBU][MainThread]SWMOUSEMOTION (17, 30)
+ 10193[INFO][MainThread]地图渲染区域大小：850x650
+ 10194[INFO][MainThread]地图渲染方块区域：17x13
+ 10194[INFO][MainThread]地图渲染方块数目：221
+ 10223[DEBU][MainThread]MOUSEMOTION (424, 256)
+ 10223[DEBU][MainThread]SWMOUSEMOTION (41, 0)
+ 10223[INFO][MainThread]地图渲染区域大小：850x650
+ 10224[INFO][MainThread]地图渲染方块区域：17x13
+ 10224[INFO][MainThread]地图渲染方块数目：221
+ 10251[DEBU][MainThread]MOUSEMOTION (454, 237)
+ 10251[DEBU][MainThread]SWMOUSEMOTION (95, 0)
+ 10251[INFO][MainThread]地图渲染区域大小：850x650
+ 10252[INFO][MainThread]地图渲染方块区域：17x13
+ 10252[INFO][MainThread]地图渲染方块数目：221
+ 10279[DEBU][MainThread]MOUSEMOTION (469, 251)
+ 10279[DEBU][MainThread]SWMOUSEMOTION (164, 0)
+ 10279[INFO][MainThread]地图渲染区域大小：850x650
+ 10280[INFO][MainThread]地图渲染方块区域：17x13
+ 10280[INFO][MainThread]地图渲染方块数目：221
+ 10309[DEBU][MainThread]MOUSEMOTION (537, 235)
+ 10309[DEBU][MainThread]SWMOUSEMOTION (301, 0)
+ 10309[INFO][MainThread]地图渲染区域大小：850x650
+ 10310[INFO][MainThread]地图渲染方块区域：17x13
+ 10310[INFO][MainThread]地图渲染方块数目：221
+ 10337[DEBU][MainThread]MOUSEMOTION (524, 260)
+ 10337[DEBU][MainThread]SWMOUSEMOTION (425, 0)
+ 10337[INFO][MainThread]地图渲染区域大小：850x650
+ 10338[INFO][MainThread]地图渲染方块区域：17x13
+ 10338[INFO][MainThread]地图渲染方块数目：221
+ 10366[DEBU][MainThread]MOUSEMOTION (495, 285)
+ 10366[DEBU][MainThread]SWMOUSEMOTION (520, 0)
+ 10366[INFO][MainThread]地图渲染区域大小：850x650
+ 10367[INFO][MainThread]地图渲染方块区域：17x13
+ 10367[INFO][MainThread]地图渲染方块数目：221
+ 10395[DEBU][MainThread]MOUSEMOTION (566, 298)
+ 10395[DEBU][MainThread]SWMOUSEMOTION (686, 0)
+ 10395[INFO][MainThread]地图渲染区域大小：850x650
+ 10396[INFO][MainThread]地图渲染方块区域：17x13
+ 10396[INFO][MainThread]地图渲染方块数目：221
+ 10425[DEBU][MainThread]MOUSEMOTION (564, 300)
+ 10425[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+ 10425[INFO][MainThread]地图渲染区域大小：850x650
+ 10426[INFO][MainThread]地图渲染方块区域：17x13
+ 10426[INFO][MainThread]地图渲染方块数目：221
+ 10453[DEBU][MainThread]MOUSEMOTION (469, 300)
+ 10453[DEBU][MainThread]SWMOUSEMOTION (800, 0)
+ 10453[INFO][MainThread]地图渲染区域大小：850x650
+ 10454[INFO][MainThread]地图渲染方块区域：17x13
+ 10454[INFO][MainThread]地图渲染方块数目：221
+ 10481[DEBU][MainThread]MOUSEMOTION (446, 314)
+ 10481[DEBU][MainThread]SWMOUSEMOTION (800, 14)
+ 10481[INFO][MainThread]地图渲染区域大小：850x650
+ 10482[INFO][MainThread]地图渲染方块区域：17x13
+ 10482[INFO][MainThread]地图渲染方块数目：221
+ 10511[DEBU][MainThread]MOUSEMOTION (433, 324)
+ 10511[DEBU][MainThread]SWMOUSEMOTION (800, 38)
+ 10511[INFO][MainThread]地图渲染区域大小：850x650
+ 10512[INFO][MainThread]地图渲染方块区域：17x13
+ 10512[INFO][MainThread]地图渲染方块数目：221
+ 10540[DEBU][MainThread]MOUSEMOTION (453, 352)
+ 10540[DEBU][MainThread]SWMOUSEMOTION (800, 90)
+ 10540[INFO][MainThread]地图渲染区域大小：850x650
+ 10541[INFO][MainThread]地图渲染方块区域：17x13
+ 10541[INFO][MainThread]地图渲染方块数目：221
+ 10568[DEBU][MainThread]MOUSEMOTION (451, 372)
+ 10568[DEBU][MainThread]SWMOUSEMOTION (800, 162)
+ 10568[INFO][MainThread]地图渲染区域大小：850x650
+ 10569[INFO][MainThread]地图渲染方块区域：17x13
+ 10569[INFO][MainThread]地图渲染方块数目：221
+ 10596[DEBU][MainThread]MOUSEMOTION (427, 354)
+ 10596[DEBU][MainThread]SWMOUSEMOTION (800, 216)
+ 10596[INFO][MainThread]地图渲染区域大小：850x650
+ 10597[INFO][MainThread]地图渲染方块区域：17x13
+ 10598[INFO][MainThread]地图渲染方块数目：221
+ 10626[DEBU][MainThread]MOUSEMOTION (414, 366)
+ 10626[DEBU][MainThread]SWMOUSEMOTION (800, 282)
+ 10626[INFO][MainThread]地图渲染区域大小：850x650
+ 10627[INFO][MainThread]地图渲染方块区域：17x13
+ 10627[INFO][MainThread]地图渲染方块数目：221
+ 10654[DEBU][MainThread]MOUSEMOTION (401, 348)
+ 10654[DEBU][MainThread]SWMOUSEMOTION (800, 330)
+ 10654[INFO][MainThread]地图渲染区域大小：850x650
+ 10655[INFO][MainThread]地图渲染方块区域：17x13
+ 10655[INFO][MainThread]地图渲染方块数目：221
+ 10683[DEBU][MainThread]MOUSEMOTION (373, 359)
+ 10683[DEBU][MainThread]SWMOUSEMOTION (773, 389)
+ 10683[INFO][MainThread]地图渲染区域大小：850x650
+ 10684[INFO][MainThread]地图渲染方块区域：17x13
+ 10684[INFO][MainThread]地图渲染方块数目：221
+ 10712[DEBU][MainThread]MOUSEMOTION (342, 351)
+ 10712[DEBU][MainThread]SWMOUSEMOTION (715, 440)
+ 10712[INFO][MainThread]地图渲染区域大小：850x650
+ 10713[INFO][MainThread]地图渲染方块区域：17x13
+ 10713[INFO][MainThread]地图渲染方块数目：221
+ 10741[DEBU][MainThread]MOUSEMOTION (339, 326)
+ 10741[DEBU][MainThread]SWMOUSEMOTION (654, 466)
+ 10741[INFO][MainThread]地图渲染区域大小：850x650
+ 10742[INFO][MainThread]地图渲染方块区域：17x13
+ 10742[INFO][MainThread]地图渲染方块数目：221
+ 10769[DEBU][MainThread]MOUSEMOTION (294, 321)
+ 10769[DEBU][MainThread]SWMOUSEMOTION (548, 487)
+ 10769[INFO][MainThread]地图渲染区域大小：850x650
+ 10770[INFO][MainThread]地图渲染方块区域：17x13
+ 10770[INFO][MainThread]地图渲染方块数目：221
+ 10798[DEBU][MainThread]MOUSEMOTION (326, 301)
+ 10798[DEBU][MainThread]SWMOUSEMOTION (474, 488)
+ 10798[INFO][MainThread]地图渲染区域大小：850x650
+ 10799[INFO][MainThread]地图渲染方块区域：17x13
+ 10799[INFO][MainThread]地图渲染方块数目：221
+ 10828[DEBU][MainThread]MOUSEMOTION (311, 285)
+ 10828[DEBU][MainThread]SWMOUSEMOTION (385, 473)
+ 10829[INFO][MainThread]地图渲染区域大小：850x650
+ 10829[INFO][MainThread]地图渲染方块区域：17x13
+ 10829[INFO][MainThread]地图渲染方块数目：221
+ 10858[DEBU][MainThread]MOUSEMOTION (348, 278)
+ 10858[DEBU][MainThread]SWMOUSEMOTION (333, 451)
+ 10858[INFO][MainThread]地图渲染区域大小：850x650
+ 10859[INFO][MainThread]地图渲染方块区域：17x13
+ 10859[INFO][MainThread]地图渲染方块数目：221
+ 10886[DEBU][MainThread]MOUSEMOTION (384, 288)
+ 10886[DEBU][MainThread]SWMOUSEMOTION (317, 439)
+ 10886[INFO][MainThread]地图渲染区域大小：850x650
+ 10887[INFO][MainThread]地图渲染方块区域：17x13
+ 10887[INFO][MainThread]地图渲染方块数目：221
+ 10914[DEBU][MainThread]MOUSEMOTION (398, 294)
+ 10914[DEBU][MainThread]SWMOUSEMOTION (315, 433)
+ 10914[INFO][MainThread]地图渲染区域大小：850x650
+ 10916[INFO][MainThread]地图渲染方块区域：17x13
+ 10916[INFO][MainThread]地图渲染方块数目：221
+ 10944[DEBU][MainThread]MOUSEMOTION (403, 292)
+ 10944[DEBU][MainThread]SWMOUSEMOTION (318, 425)
+ 10944[INFO][MainThread]地图渲染区域大小：850x650
+ 10945[INFO][MainThread]地图渲染方块区域：17x13
+ 10945[INFO][MainThread]地图渲染方块数目：221
+ 10974[DEBU][MainThread]MOUSEMOTION (402, 296)
+ 10974[DEBU][MainThread]SWMOUSEMOTION (320, 421)
+ 10974[INFO][MainThread]地图渲染区域大小：850x650
+ 10975[INFO][MainThread]地图渲染方块区域：17x13
+ 10975[INFO][MainThread]地图渲染方块数目：221
+ 11002[DEBU][MainThread]MOUSEMOTION (400, 296)
+ 11002[DEBU][MainThread]SWMOUSEMOTION (320, 417)
+ 11002[INFO][MainThread]地图渲染区域大小：850x650
+ 11003[INFO][MainThread]地图渲染方块区域：17x13
+ 11003[INFO][MainThread]地图渲染方块数目：221
+ 11030[DEBU][MainThread]MOUSEMOTION (394, 297)
+ 11030[DEBU][MainThread]SWMOUSEMOTION (314, 414)
+ 11030[INFO][MainThread]地图渲染区域大小：850x650
+ 11031[INFO][MainThread]地图渲染方块区域：17x13
+ 11031[INFO][MainThread]地图渲染方块数目：221
+ 11060[DEBU][MainThread]MOUSEMOTION (374, 296)
+ 11060[DEBU][MainThread]SWMOUSEMOTION (288, 410)
+ 11060[INFO][MainThread]地图渲染区域大小：850x650
+ 11061[INFO][MainThread]地图渲染方块区域：17x13
+ 11061[INFO][MainThread]地图渲染方块数目：221
+ 11090[DEBU][MainThread]MOUSEMOTION (361, 294)
+ 11090[DEBU][MainThread]SWMOUSEMOTION (249, 404)
+ 11090[INFO][MainThread]地图渲染区域大小：850x650
+ 11091[INFO][MainThread]地图渲染方块区域：17x13
+ 11091[INFO][MainThread]地图渲染方块数目：221
+ 11118[DEBU][MainThread]MOUSEMOTION (382, 296)
+ 11118[DEBU][MainThread]SWMOUSEMOTION (231, 400)
+ 11118[INFO][MainThread]地图渲染区域大小：850x650
+ 11119[INFO][MainThread]地图渲染方块区域：17x13
+ 11119[INFO][MainThread]地图渲染方块数目：221
+ 11146[DEBU][MainThread]MOUSEMOTION (394, 299)
+ 11146[DEBU][MainThread]SWMOUSEMOTION (225, 399)
+ 11146[INFO][MainThread]地图渲染区域大小：850x650
+ 11147[INFO][MainThread]地图渲染方块区域：17x13
+ 11147[INFO][MainThread]地图渲染方块数目：221
+ 11176[DEBU][MainThread]MOUSEMOTION (399, 298)
+ 11176[DEBU][MainThread]SWMOUSEMOTION (224, 397)
+ 11176[INFO][MainThread]地图渲染区域大小：850x650
+ 11177[INFO][MainThread]地图渲染方块区域：17x13
+ 11177[INFO][MainThread]地图渲染方块数目：221
+ 11205[DEBU][MainThread]MOUSEMOTION (573, 261)
+ 11205[DEBU][MainThread]SWMOUSEMOTION (397, 358)
+ 11205[INFO][MainThread]地图渲染区域大小：850x650
+ 11206[INFO][MainThread]地图渲染方块区域：17x13
+ 11206[INFO][MainThread]地图渲染方块数目：221
+ 11233[DEBU][MainThread]MOUSEMOTION (799, 228)
+ 11234[DEBU][MainThread]SWMOUSEMOTION (796, 286)
+ 11234[INFO][MainThread]地图渲染区域大小：850x650
+ 11235[INFO][MainThread]地图渲染方块区域：17x13
+ 11235[INFO][MainThread]地图渲染方块数目：221
+ 11262[DEBU][MainThread]ACTIVEEVENT 0
+ 11262[INFO][MainThread]地图渲染区域大小：850x650
+ 11263[INFO][MainThread]地图渲染方块区域：17x13
+ 11263[INFO][MainThread]地图渲染方块数目：221
+ 11291[INFO][MainThread]地图渲染区域大小：850x650
+ 11292[INFO][MainThread]地图渲染方块区域：17x13
+ 11292[INFO][MainThread]地图渲染方块数目：221
+ 11323[INFO][MainThread]地图渲染区域大小：850x650
+ 11324[INFO][MainThread]地图渲染方块区域：17x13
+ 11324[INFO][MainThread]地图渲染方块数目：221
+ 11351[INFO][MainThread]地图渲染区域大小：850x650
+ 11352[INFO][MainThread]地图渲染方块区域：17x13
+ 11352[INFO][MainThread]地图渲染方块数目：221
+ 11381[INFO][MainThread]地图渲染区域大小：850x650
+ 11382[INFO][MainThread]地图渲染方块区域：17x13
+ 11382[INFO][MainThread]地图渲染方块数目：221
+ 11413[INFO][MainThread]地图渲染区域大小：850x650
+ 11414[INFO][MainThread]地图渲染方块区域：17x13
+ 11414[INFO][MainThread]地图渲染方块数目：221
+ 11443[INFO][MainThread]地图渲染区域大小：850x650
+ 11443[INFO][MainThread]地图渲染方块区域：17x13
+ 11444[INFO][MainThread]地图渲染方块数目：221
+ 11472[INFO][MainThread]地图渲染区域大小：850x650
+ 11473[INFO][MainThread]地图渲染方块区域：17x13
+ 11473[INFO][MainThread]地图渲染方块数目：221
+ 11500[INFO][MainThread]地图渲染区域大小：850x650
+ 11502[INFO][MainThread]地图渲染方块区域：17x13
+ 11502[INFO][MainThread]地图渲染方块数目：221
+ 11529[INFO][MainThread]地图渲染区域大小：850x650
+ 11530[INFO][MainThread]地图渲染方块区域：17x13
+ 11530[INFO][MainThread]地图渲染方块数目：221
+ 11560[INFO][MainThread]地图渲染区域大小：850x650
+ 11560[INFO][MainThread]地图渲染方块区域：17x13
+ 11561[INFO][MainThread]地图渲染方块数目：221
+ 11591[INFO][MainThread]地图渲染区域大小：850x650
+ 11592[INFO][MainThread]地图渲染方块区域：17x13
+ 11592[INFO][MainThread]地图渲染方块数目：221
+ 11620[INFO][MainThread]地图渲染区域大小：850x650
+ 11621[INFO][MainThread]地图渲染方块区域：17x13
+ 11621[INFO][MainThread]地图渲染方块数目：221
+ 11649[INFO][MainThread]地图渲染区域大小：850x650
+ 11651[INFO][MainThread]地图渲染方块区域：17x13
+ 11651[INFO][MainThread]地图渲染方块数目：221
+ 11678[INFO][MainThread]地图渲染区域大小：850x650
+ 11678[INFO][MainThread]地图渲染方块区域：17x13
+ 11679[INFO][MainThread]地图渲染方块数目：221
+ 11708[INFO][MainThread]地图渲染区域大小：850x650
+ 11709[INFO][MainThread]地图渲染方块区域：17x13
+ 11709[INFO][MainThread]地图渲染方块数目：221
+ 11738[INFO][MainThread]地图渲染区域大小：850x650
+ 11738[INFO][MainThread]地图渲染方块区域：17x13
+ 11739[INFO][MainThread]地图渲染方块数目：221
+ 11766[INFO][MainThread]地图渲染区域大小：850x650
+ 11767[INFO][MainThread]地图渲染方块区域：17x13
+ 11767[INFO][MainThread]地图渲染方块数目：221
+ 11796[INFO][MainThread]地图渲染区域大小：850x650
+ 11796[INFO][MainThread]地图渲染方块区域：17x13
+ 11796[INFO][MainThread]地图渲染方块数目：221
+ 11826[INFO][MainThread]地图渲染区域大小：850x650
+ 11827[INFO][MainThread]地图渲染方块区域：17x13
+ 11828[INFO][MainThread]地图渲染方块数目：221
+ 11856[INFO][MainThread]地图渲染区域大小：850x650
+ 11857[INFO][MainThread]地图渲染方块区域：17x13
+ 11857[INFO][MainThread]地图渲染方块数目：221
+ 11885[INFO][MainThread]地图渲染区域大小：850x650
+ 11886[INFO][MainThread]地图渲染方块区域：17x13
+ 11886[INFO][MainThread]地图渲染方块数目：221
+ 11914[INFO][MainThread]地图渲染区域大小：850x650
+ 11915[INFO][MainThread]地图渲染方块区域：17x13
+ 11915[INFO][MainThread]地图渲染方块数目：221
+ 11944[INFO][MainThread]地图渲染区域大小：850x650
+ 11945[INFO][MainThread]地图渲染方块区域：17x13
+ 11945[INFO][MainThread]地图渲染方块数目：221
+ 11974[INFO][MainThread]地图渲染区域大小：850x650
+ 11974[INFO][MainThread]地图渲染方块区域：17x13
+ 11974[INFO][MainThread]地图渲染方块数目：221
+ 12002[INFO][MainThread]地图渲染区域大小：850x650
+ 12003[INFO][MainThread]地图渲染方块区域：17x13
+ 12003[INFO][MainThread]地图渲染方块数目：221
+ 12030[INFO][MainThread]地图渲染区域大小：850x650
+ 12031[INFO][MainThread]地图渲染方块区域：17x13
+ 12031[INFO][MainThread]地图渲染方块数目：221
+ 12060[INFO][MainThread]地图渲染区域大小：850x650
+ 12061[INFO][MainThread]地图渲染方块区域：17x13
+ 12061[INFO][MainThread]地图渲染方块数目：221
+ 12090[INFO][MainThread]地图渲染区域大小：850x650
+ 12091[INFO][MainThread]地图渲染方块区域：17x13
+ 12091[INFO][MainThread]地图渲染方块数目：221
+ 12119[INFO][MainThread]地图渲染区域大小：850x650
+ 12119[INFO][MainThread]地图渲染方块区域：17x13
+ 12120[INFO][MainThread]地图渲染方块数目：221
+ 12147[INFO][MainThread]地图渲染区域大小：850x650
+ 12148[INFO][MainThread]地图渲染方块区域：17x13
+ 12148[INFO][MainThread]地图渲染方块数目：221
+ 12176[INFO][MainThread]地图渲染区域大小：850x650
+ 12177[INFO][MainThread]地图渲染方块区域：17x13
+ 12177[INFO][MainThread]地图渲染方块数目：221
+ 12206[INFO][MainThread]地图渲染区域大小：850x650
+ 12207[INFO][MainThread]地图渲染方块区域：17x13
+ 12207[INFO][MainThread]地图渲染方块数目：221
+ 12235[INFO][MainThread]地图渲染区域大小：850x650
+ 12235[INFO][MainThread]地图渲染方块区域：17x13
+ 12236[INFO][MainThread]地图渲染方块数目：221
+ 12262[INFO][MainThread]地图渲染区域大小：850x650
+ 12263[INFO][MainThread]地图渲染方块区域：17x13
+ 12263[INFO][MainThread]地图渲染方块数目：221
+ 12360[DEBU][MainThread]QUIT
+ 12360[INFO][MainThread]地图渲染区域大小：850x650
+ 12361[INFO][MainThread]地图渲染方块区域：17x13
+ 12361[INFO][MainThread]地图渲染方块数目：221
